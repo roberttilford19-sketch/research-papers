@@ -1,0 +1,52 @@
+# AUDIT LOG — Census #147
+
+## Source
+- Drive filename: DOW-UAP-D088_US-AirForce_Analysis-of-Flying-Objects-in-the-US_101-172.pdf
+- Drive file ID: 1cTvneN7ofyrOUJfX-Sgw9v3YvaiqyowS
+- Source text path: /home/hatch/workspace/drive-truth-followthrough/work/downloads/147-1cTvneN7ofyrOUJfX-Sgw9v3YvaiqyowS.txt
+- Source text sha256: 3f2083240035c38deddae1f1255b7fab2f9e97a4b648de2dc61feffc472abf82
+- Source text size: 307,753 bytes; 6,882 lines.
+- Chars read: 307,753 (full text, read end to end in chunks; byte count used as the character count for this ASCII-dominant OCR text).
+
+## Ledger card
+- Card location: TRUTH-LEDGER.md, census #147 (line 1218 area).
+- Prior verdict: QUEUED — "not downloaded (size); identification only, content not yet read or verified." Card noted PDF size 34.1 MB, modified 2026-06-23, state LIVE, no extractable kernel, no errors spotted at identification stage. The card identifies census #149 as the companion segment (items 1–100).
+
+## Pattern decision
+- Collected-document pattern applied. Basis: the file is a U.S. Air Force intelligence compilation of 1948 incident checklists, investigators' summaries, and copied civilian correspondence. None of it is Robert Tilford's writing. PAPER.md is a content assessment; the full text is not reproduced.
+
+## Corrections made in the staged assessment (with basis)
+1. The June 30, 1948 South Dakota case is not assigned an incident number in PAPER.md. Basis: direct check of the source text — the checklist's number field is not legible in the OCR (verified by searching the text; the header shows date, place rendered as "Beola," and observer, with no readable number). An earlier draft figure was struck for this reason.
+2. Markham's moon-rocket argument and LaPaz's rebuttal are each attributed to their authors and neither is adopted. Basis: the file presents them as incoming correspondence and an excerpted expert letter respectively; the assessment's rail is that a document's assertions belong to the document.
+3. The Fourth Air Force opinion on the Bakersfield reports (parachute flares) is reported with the headquarters' own caveat that it had no evidence. Basis: the supplement's wording.
+4. The Far East Air Forces evaluation of Incident 111 ("probably a bird") is attributed to that headquarters' endorsement. Basis: the first endorsement text in the file.
+5. The Drive filename's word "Analysis" is flagged as a loose fit. Basis: the file's contents are predominantly intake checklists; evaluations appear in only a few entries.
+
+## Factual claims in the framing that could not be attributed
+- None retained. One claim was removed during drafting (the South Dakota incident number, item 1 above) precisely because it could not be attributed to a legible source. Place-name spellings follow the OCR text where the original is uncertain, and PAPER.md says so for the South Dakota case.
+
+## Suspected duplication
+- SUSPECTED-DUPLICATE-OF (internal, same file): Incident 168 (Arnhem, July 20, 1948) describes a wingless two-deck aircraft in terms closely paralleling the Chiles Eastern Air Lines report of July 24, 1948 (the report in this segment immediately preceding the related Blackstone sightings filed as Incidents 144a and 144b). Evidence: matching descriptors (wingless, two decks/rows of windows, very high speed) four days apart. Named as suspected only; any verdict belongs to the verification pass, and the possibility that the Arnhem checklist is a garbled or misdated copy of the Chiles report cannot be settled from this text.
+- Incidents 102 and 103 are NOT duplicates of Incident 101: they are separate reports of the same February 18, 1948 event by different observers, cross-referenced within the file itself.
+- No duplication with census #149 (items 1–100) is asserted; that segment was not read for this item, and the two files are sequential segments of one compilation per the ledger cards.
+
+## Register rescan
+- PAPER.md rescanned after drafting: no workshop, campaign, or military vocabulary in the framing beyond the document's own institutional names (Fourth Air Force, Far East Air Forces, Institute of Meteoritics); no ledger shorthand; full sentences throughout.
+
+## VERIFIER
+- **VERIFY CREW 10, 2026-10-16: DISCREPANCY — one identifier in PAPER.md does not match the source text or this log.** PAPER.md renders the June 30, 1948 South Dakota place name as "Beula" and describes it as the place name "as rendered in the text." The extracted source text renders it "Beola" in both the location and the address fields of that checklist, and this log's own basis note also gives "Beola." The paper's spelling is therefore not the rendering it claims to follow. All other checks on this item pass, as detailed below and in VERIFY-LOG-10.md.
+- Hash and size: sha256 3f2083240035c38deddae1f1255b7fab2f9e97a4b648de2dc61feffc472abf82 recomputed and matches this log; 307,753 bytes match. This log discloses that its character figure is the byte count; the codepoint count is 304,757, which matches the fetch log's character count — a disclosed method difference, not missing content. Line count 6,882 is the newline count. Abstract recounted at 202 words (required 150–250). Identification block, collected-document label, and PREMISE present and honest; the paper's LIMITS states the full read on which it rests.
+- Named check 2 (internal parallel): ruled **TWO REPORTS OF RELATED EVENTS** — two distinct reports with parallel object descriptions; not the same report twice. Evidence and locations are given in full in VERIFY-LOG-10.md. In brief: Incident 168 (checklist at about 96 percent of the text) is dated 20 July 1948, 1330 local, at Arnhem, observer A. D. Otter, shape "Aircraft with 2 decks and no wings," sound "Same as V-2," seen four times intermittently through cloud at very high altitude, with no windows, flame, or size recorded. The Chiles statement (following the Incident 144a/144b Blackstone checklists, at about 67–68 percent of the text) concerns the night of 24 July 1948, 0245, an Eastern Air Lines DC-3, a single 5-to-10-second close pass at about 5,500 feet and an estimated 700 mph, a roughly 100-foot wingless object with "two rows of windows, an upper and a lower," a red flame from the tail, and no sound heard. Different observers, dates, times, places, altitudes, sounds, and observation patterns cannot be one report copied; the shared content is the wingless, two-level description alone. The finisher's suspected-duplicate flag therefore does not sustain as a duplication, and the paper itself asserts no connection, which is correct.
+- Struck draft claims: the struck South Dakota incident-number figure is confirmed absent — PAPER.md assigns that case no incident number and states expressly that the checklist's number is not legible in the downloaded text, and the source checklist header I examined likewise shows date, place, and observer with no readable number field. Note for the coordinator: this log records that struck figure in two places (Corrections item 1 and the unattributed-claims section) but both refer to the same single figure; no second, distinct struck claim is named anywhere in this package, so no second claim could be checked as absent.
+- Spot checks: head (Incident 101, 18 February 1948, Norcatur, Kansas; editor at Norton; Oscar Monnig passage and the roughly 109-pound achondrite; Markham's letters and Dr. Lincoln LaPaz's rebuttal), interior (Holloman Incident 122a, trained balloon observer of the Geophysics Laboratory; the Columbus crepe-paper balloon with its ball of burning waste, Incident 157), and tail (Incident 171, Moscow, closing comment that the object could have been a jet or conventional airplane and that a dirigible could not be excluded) all match the paper.
+
+## REPAIR — 2026-10-16 — REPAIR CREW 4
+
+- Discrepancy, as stated by VERIFY CREW 10 (VERIFY-LOG-10.md, census #147 entry, and the VERIFIER section of this log): PAPER.md rendered the June 30, 1948 South Dakota place name as "Beula" in a sentence presenting it as the place name "as rendered in the text." The source text renders it "Beola" in both the location and address fields of that checklist, and this log's own basis note (Corrections item 1) also gives "Beola." One letter, one content sentence; nothing else in the paper rests on the place name.
+- Repair crew's own confirmation of the source reading: the June 30, 1948 checklist in the source text (/home/hatch/workspace/drive-truth-followthrough/work/downloads/147-1cTvneN7ofyrOUJfX-Sgw9v3YvaiqyowS.txt) was located and read directly. Its location field (line 4423) reads "Beola. South Dakota." Its address field (line 4429, field 6, "Address of observer") reads "B•ola,· South Da kota" in the OCR text — the same name, with the second letter rendered as an OCR bullet artifact and the remaining letters "ola" legible in order; in neither field does the name read "Beula," and the third letter is "o," not "u," in both fields.
+- Correction made: exactly one word in PAPER.md was changed — "Beula" to "Beola" — in the sentence beginning "the June 30, 1948 report from Beola, South Dakota (place name as rendered in the text; the checklist's incident number is not legible in the downloaded text)." Nothing else in the paper was changed.
+- Diff confirmation: a diff of the corrected PAPER.md against the repair crew's own pre-edit copy (kept in scratch in /tmp only, not in this staged folder) shows a single changed line (line 39), and a word-level diff shows exactly one word changed, "Beula," to "Beola,". The file is 11,600 bytes both before and after, consistent with a one-letter substitution. No "Beula" remains in PAPER.md; "Beola" now appears once.
+- Coordinator-carried clarification of the struck-claims record, as flagged by VERIFY CREW 10: this log's two references to the struck South Dakota incident-number figure (Corrections item 1 and the section headed "Factual claims in the framing that could not be attributed") are references to the same single figure. That figure is confirmed absent from the paper: the paper expressly assigns the case no number and states that the checklist's incident number is not legible in the downloaded text. No second, distinct struck claim is named anywhere in this package.
+- Scope of this entry: appended only. No existing content of this log, and no part of its VERIFIER section, was edited. No other file in the staged package was changed apart from the one-word correction to PAPER.md recorded above.
+
+— REPAIR CREW 4, 2026-10-16
