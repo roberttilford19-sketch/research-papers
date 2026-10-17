@@ -1,0 +1,19 @@
+# Audit Log — #1361 Info transmission under shielding condition
+
+- Source text path: /home/hatch/workspace/drive-truth-followthrough/work/downloads/1361-1uBCX52GPWuogJyDoOgZaF0PBHYIbiIzw.txt
+- Source text (OCR .txt) sha256: 9a759b6f1f5ed949813f7e17cd31e224e20aeb8afce5d0f9868224dfd91a3121
+- Source PDF binary sha256 (from LOCAL-EXTRACT-LOG-2.md): 51752c372fed02adcb21341eda40065e2629081aa17125f0138d8fec2a48766b
+- Source PDF pages (extract log): 38
+- OCR characters (extract log): 62656
+- Ledger card prior verdict: QUEUED — text not extracted; needs OCR/content pass before any keep/junk ruling.
+- Judgment call: Collected third-party document. Reasoning: the text is a pre-existing government, journal, broadcast, institutional, or grant document by named third-party authors or agencies, held in Robert Tilford's Drive as collected research material. PAPER.md is therefore a finished content assessment with an honest collected-document label, and the full text is not reproduced.
+- Reading: Read by sampling: the opening 4,000 characters, a passage at the midpoint (approximately 31,300 to 33,300 characters), and the closing 2,000 characters, out of 62,656 characters of OCR text, together covering the title pages, introduction, electroencephalography section, and a closing transcript. The middle experimental sections were sampled rather than read line by line, so specific numerical results reported there are not summarised and should not be quoted from this assessment. The underlying scan is a 38-page PDF.
+- Corrections: None made to the source text, which was never altered. No corrections were applied in the staged assessment beyond rendering the document's contents in the assessor's own prose. OCR noise was flagged as an anomaly class and never silently converted into a substantive claim. Basis for identifications: the document itself first, then the ledger card metadata.
+- Unattributable or document-attributed claims: The report's central claim, that information was transferred without sensory mediation, is the authors' claim, attributed to them and not verified here. Reported statistical and physiological details in unsampled sections are unattributable from this staging and are deliberately not restated as findings.
+- Duplication note: Topical overlap exists with other Stanford Research Institute items in this batch, notably #1381 and #1388, which cite or arise from the same research programme. No duplicate relationship is asserted; the documents differ in kind (research report, review, and grant application).
+- Register rescan: The staged PAPER.md was rescanned after drafting. It uses neutral, publication-ready prose, contains no workshop, campaign, or military vocabulary about the work, and carries no primacy or exclusivity claim. A primacy phrase appearing inside a reviewed document (#1382 only, where applicable) is reported as that document's claim and is not adopted.
+- Outcome: FINISHED-STAGED (collected-document assessment pattern)
+
+## VERIFIER
+
+VERIFY CREW L2-4 (2026-10-16) — VERIFIED. Independently recomputed: OCR sha256 matches exactly; OCR characters 62,656 match; abstract recounted at 209 words (in range). Every sampled claim was found inside the windows disclosed in Limits: title, Targ and Puthoff, laboratory, release reference, and the Geller and computer-drawing figure captions (including memory-only and zero-intensity targets) in the opening 4,000; the EEG section with the noncognitive hypothesis, the shielded double-walled steel room, and the roughly seven-metre sender distance in the midpoint window (about 31,300–33,300); the remote viewing transcript in the closing 2,000. Collected-document label present; register clean; no source text reproduced; the authors' central claim is attributed, not adopted. Full evidence: work/VERIFY-LOG-L2-4.md.

@@ -1,0 +1,30 @@
+# Information Transfer under Sensory Shielding — Collected Document Assessment
+
+## Identification
+
+- Census number: 1355
+- Drive filename: Info transfer hal puttoff cia
+- Item type: Collected third-party document. Journal article, recovered as OCR text from a scanned PDF file.
+- State: LIVE, as recorded on the ledger card.
+- Label: Staged desk copy prepared 2026-10-16 from Robert Tilford's Drive; original unaltered; AI assistance disclosed.
+- Collected-document label: This is not Robert Tilford's writing. It is a collected copy of a published article by Harold E. Puthoff and Russell Targ, assessed here as a collected document. The full text is not reproduced. The surname in the Drive filename is rendered as "puttoff"; the article itself gives the author's name as Puthoff.
+
+## Premise
+
+The article sets out to examine whether information about remote geographical and technical targets can be obtained by mental processes that are not presented to any known sense, and to describe that ability as a perceptual channel whose performance can be measured in the manner of a communications channel. It combines a historical survey of inquiry into so-called paranormal perception with a report of experiments conducted at Stanford Research Institute, and it closes by suggesting areas of physics from which a description or explanation of the phenomenon might eventually come.
+
+## Abstract
+
+This item is a copy of the article by Harold E. Puthoff and Russell Targ published in Proceedings of the IEEE, volume 64, number 3, in March 1976, pages 329 to 354, under the title "A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research." The authors outline more than a century of scientific inquiry into extrasensory perception, then describe a programme conducted over about three years in the Electronics and Bioengineering Laboratory of Stanford Research Institute. In the experiments, an outbound experimenter visited a randomly selected target location while a subject remaining at the laboratory described and sketched it, and the resulting transcripts were matched to locations by blind rank ordering. The article reports series with experienced subjects, with learners drawn from the professional staff, with unselected volunteers, and with visiting scientists acting as subjects, together with experiments on technical targets and considerations concerning time. It reports that the experienced-subject series reached statistical significance while a learner series did not, and that accuracy did not appear to be a sensitive function of distance and was not apparently degraded by Faraday cage shielding. It discusses extremely low-frequency electromagnetic waves as one candidate mechanism, reviews theoretical suggestions drawn from quantum physics, and sets out a procedure for specifying the characteristics of such a channel. All results summarised here are the authors' reported results, not independently verified findings of this desk.
+
+## Content Account
+
+The article is organised into an introduction, a background and historical section, experimental sections, sections on considerations concerning time and on discussion, and a conclusion, with two appendices and an extensive reference list. The experimental core describes the outdoor remote viewing protocol, in which target locations were drawn from a pool of natural and built sites in the San Francisco Bay Area, and reports rankings for each target. For experienced subjects identified as S2 and S3 the article gives a total sum of ranks it reports as significant at the level printed in its table. For learner subjects S5 and S6 it reports a total sum of ranks with p equals 0.08, marked not significant, while describing individual direct hits, including a first experiment in which a subject identified White Plaza at Stanford by name. For visiting scientist subjects it reports a short series in which the numerical evaluation is described favourably by the authors. Drawings reproduced as figures include responses to a city hall target, to a typewriter target by two subjects, and to a merry-go-round target. A further section considers the use of unselected subjects and argues, in the authors' framing, that personal participation is the most effective way for an observer to judge whether chicanery is involved. The discussion and conclusion characterise the channel in information-theoretic terms, including the addition of redundancy to raise reliability, and canvass physical hypotheses without settling on one.
+
+## Errors and Anomalies
+
+The text is OCR of a two-column journal layout, and the columns are interleaved line by line throughout, so that the reading order alternates between columns and many sentences must be reconstructed by the reader. Tables are badly broken, with rankings, distances, and significance values scattered among stray characters, and figure captions are mixed with body text and with drawings rendered as noise. Author names, the journal title, and release stamps are repeatedly misread. These defects are flagged as an OCR anomaly class. No substantive wording has been corrected, and no figure, table value, or quotation should be taken from this copy without checking the printed page.
+
+## Limits
+
+This assessment is based on a sample of the OCR text rather than a complete read. The sample comprised the opening pages, sections at approximately every 20,000 characters through the file, the passage near character offset 60,000, and the closing reference pages, totalling roughly 35,000 of 137,879 characters. Statistical values are reported as the article's tables render them in OCR and were not verified against the printed journal. The release stamp visible in the text indicates a Central Intelligence Agency release dated 24 June 2003 under the identifier rendered as CIA-RDP79-00999A000300060005-1, recorded as it appears and not independently confirmed. A suspected duplicate relationship with census item 1351 is recorded in the audit log as a suspicion only.

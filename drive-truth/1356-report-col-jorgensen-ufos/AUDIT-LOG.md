@@ -1,0 +1,18 @@
+# Audit Log — 1356
+
+- Source text path: /home/hatch/workspace/drive-truth-followthrough/work/downloads/1356-18lURqXfm45swPLxYJwwzdu2AgB08cdtq.txt
+- Source PDF sha256 (from LOCAL-EXTRACT-LOG-2.md): ac691fbe473859d26bd4beda49de35dcce9fc51186c17fc65c5737566a5b1285
+- Source text file sha256 (computed by this crew): 20aa5108c3ac104df5f194cbb8c16a258b7007441c76ba10b10afd9880f74c62
+- PDF extent per extract log: 867,941 bytes, 23 pages. OCR characters: 29,124.
+- Characters read: approximately 23,000 of 29,124, sampled in the ranges listed in the paper's Limits section. Not a full read.
+- Ledger card prior verdict: QUEUED — text not extracted; needs OCR/content pass before any keep/junk ruling. Card state: LIVE; PDF, 847.60 KB, modified 2024-03-14.
+- Judgment call: Collected third-party document. Basis: the text is government correspondence and a panel report bearing Agency release stamps; nothing in it is Robert Tilford's writing. Assessment pattern applied; full text not reproduced.
+- Corrections: None. The addressee's name is rendered as it is most legibly given in the letter heading (Gerald R. Jorgensen); the Drive filename's shorter form is preserved in the identification block.
+- Unattributable claims: All case assessments, the Tremonton analysis, and the threat conclusion are the panel's own statements, attributed to the panel in the paper and not independently verified.
+- Duplication note: No duplicate suspected within this batch. The panel subject matter overlaps thematically with census 1357 and 1358, which are newspaper items, but the documents are distinct in kind, date, and content.
+- Register rescan: The framing text was rescanned after drafting. It contains no workshop, campaign, or military vocabulary about the work, no superlative or primacy claim, and no claim adopted from the document without attribution. The panel's own period term for one aim of its proposed programme is reported as the panel's wording, in quotation in the source reading, and is not this desk's vocabulary.
+- Staging only: nothing published, pushed, emailed, posted, uploaded, or deleted; originals unaltered.
+
+## VERIFIER
+
+- VERIFIED by VERIFY CREW L2-3 (2026-10-16, VERIFY-LOG-L2-3.md). Source OCR sha256 recomputed as 20aa5108c3ac104df5f194cbb8c16a258b7007441c76ba10b10afd9880f74c62 and character count as 29,124, both matching this log exactly. Abstract independently recounted at 244 words (required 150–250). Identity confirmed against the OCR text: letter of 15 August 1966 to Colonel Gerald R. Jorgensen (name legible in the letter heading, as this log states) answering the 27 July 1966 declassification request, followed by the panel's comments and the report dated 17 January 1953. Sampled-read claims checked offset by offset against the disclosed ranges (0–6,000; 8,000–14,000; 16,000–22,000; 24,000–end): the named case list sits at offsets ~1,830–2,100, the foo-fighter passage at ~3,423, the Tremonton/birds material at ~8,336–12,022, sky patrol at ~18,044, radar interference at ~18,414–19,589, cosmic-ray material at ~19,853–20,207, "training and debunking" at ~20,983–24,224, the "one and one-half to two years" programme duration at ~24,305 (the paper's "at least eighteen months to two years"), and the unofficial-groups passage at ~26,016–26,478 — every checked claim falls inside a disclosed sampled range. Collected-document label present; longest verbatim word-run shared with the OCR text is 17 words (the panel's own no-direct-threat conclusion phrase), so no full text is reproduced. Register scan clean; the panel's period term "debunking" is reported as the panel's wording, as this log notes.
