@@ -1,0 +1,222 @@
+# The Drive-Truth Collection
+
+This collection gathers two hundred and fourteen finished report packages from the Drive-Truth finishing campaign: research reports, identifications, and audits drawn from Robert Tilford's working archive, each one completed, staged, and independently verified during the campaign of October 2026. Every package holds the report itself (PAPER.md) and the audit log that stands behind it (AUDIT-LOG.md), so that any reader can see not only what a report says but how it was checked. Audio readings of the reports (READ.mp3), in the voice of Awen, are being added package by package as they are rendered and verified.
+
+The packages are presented as they were finished. Nothing here has been rewritten for this shelf; the audit logs name each report's sources, limits, and gaps in the open. Presented by The Tilford Trust.
+
+## The packages
+
+- [Identification Record — app-release-api36.aab (Census #10)](10-app-release-api36-aab/PAPER.md) — `10-app-release-api36-aab`
+- [Precognition — A Memory of Things Future? (G. Feinberg, 1974): A Content Assessment](1036-precog003-6-pdf/PAPER.md) — `1036-precog003-6-pdf`
+- [Soviet Psi Experiments: A Cryptolog Article — Content Assessment](1045-soviet-paranormal/PAPER.md) — `1045-soviet-paranormal`
+- [Mind-Reach: A Clipping Bundle — Content Assessment](1046-mind-reach/PAPER.md) — `1046-mind-reach`
+- [Pendulum and Dowsing Readings — Recommendations and Observations: Report #2 to the Fetzer Foundation — Content Assessment](1057-pendulum-and-dowsing-readings/PAPER.md) — `1057-pendulum-and-dowsing-readings`
+- [Operational Use of Paranormals in Police Activities: A Memorandum for the Record — Content Assessment](1064-paranormals-in-police-investigation/PAPER.md) — `1064-paranormals-in-police-investigation`
+- [Paranormal Perception Research Project File (CIA, 1973), Including the SRI Proposal "Perceptual Augmentation Techniques" — A Content Assessment](1065-one-year-resch-cia-responds-pdf/PAPER.md) — `1065-one-year-resch-cia-responds-pdf`
+- [Experimental Protocol for Hemolysis: Confirmation Experiment (SRI International, December 1987) — A Content Assessment](1066-power-of-intent-pdf/PAPER.md) — `1066-power-of-intent-pdf`
+- [Essay Review of Cornelis W. Rietdijk's "Experimenten met God," with the Closing Pages of a Preceding Note on Quantum Theory — A Content Assessment](1067-experiments-with-god-pdf/PAPER.md) — `1067-experiments-with-god-pdf`
+- ["Direct Brain Perception and Direct Brain Action Exist": A Research Proposal Submitted by Edgar D. Mitchell and Edited by Andrija Puharich — A Content Assessment](1068-direct-brain-action-pdf/PAPER.md) — `1068-direct-brain-action-pdf`
+- [Countermeasures: A Survey and Evaluation (SRI International, January 1982) — A Content Assessment](1069-countermeasures-psychic-attacks-hexes-curses-pdf/PAPER.md) — `1069-countermeasures-psychic-attacks-hexes-curses-pdf`
+- [STAR GATE Briefing Material: Terms, Methodologies, Target Selection, and Protocols — A Content Assessment](1070-briefing-material-pdf/PAPER.md) — `1070-briefing-material-pdf`
+- [Remote Perturbation Techniques: Project Description and Experimental Protocol (U.S. Army Missile Command, November 1979) — A Content Assessment](1071-us-army-missile-command-remote-telekinesis-experiments-pdf/PAPER.md) — `1071-us-army-missile-command-remote-telekinesis-experiments-pdf`
+- [Paraphysics (National Security Agency, 15 October 1976): Importance, Assessment, and Trends — A Content Assessment](1072-nsa-remote-sensing-interaction-with-sensitive-equipment-tech-p/PAPER.md) — `1072-nsa-remote-sensing-interaction-with-sensitive-equipment-tech-p`
+- [Census #1073 — Secretary of the Army Briefing on INSCOM Project Center Lane](1073-secdod-briefing-center-labe/PAPER.md) — `1073-secdod-briefing-center-labe`
+- [Census #1074 — 1958 CIA Correspondence File on Peter Hurkos, With the Enclosed Yankee Magazine Article](1074-hurkos/PAPER.md) — `1074-hurkos`
+- [Census #1075 — Parapsychology Abstracts International Page Abstracting Jung's Letters on Parapsychology](1075-carl-jung-letters-parapsychology/PAPER.md) — `1075-carl-jung-letters-parapsychology`
+- [Census #1076 — Extract of Sasaki and Colleagues, The Effects of Psychokinesis on the Hardness of Pure Aluminum Plate](1076-psychokinesis/PAPER.md) — `1076-psychokinesis`
+- [Census #1077 — Draft Proposal for a Department of Defense Psychoenergetics Program](1077-psycho-energetics/PAPER.md) — `1077-psycho-energetics`
+- [Census #1078 — William G. Braud, Distant Mental Influence of Rate of Hemolysis of Human Red Blood Cells (1990)](1078-distant-mental-influence/PAPER.md) — `1078-distant-mental-influence`
+- [Census #1079 — Sybo A. Schouten, A Test of Heymans' Theory on Paranormal Phenomena](1079-hey-man-s-theory-on-paranormal-phenomenon/PAPER.md) — `1079-hey-man-s-theory-on-paranormal-phenomenon`
+- [Census #1081 — Research Into the Cryptologic Aspects of ESP, NSA Introductory Memorandum, September 1970](1081-esp-crypto-aspects/PAPER.md) — `1081-esp-crypto-aspects`
+- [Census #1085 — SRI International, Targeting Requirements Task: Beacon, Coordinate, and Abstract Targeting Compared](1085-targeting-rv/PAPER.md) — `1085-targeting-rv`
+- [Census #1090 — Psi Communications Experiments: SRI White Paper for DIA (November 1985) With Appended Journal Articles](1090-psi-esp-communication/PAPER.md) — `1090-psi-esp-communication`
+- [The Betty and Barney Hill Case in a Released CIA File (Fuller / Look Condensation and Companion Material) — Content Assessment](1091-betty-and-barney-hill/PAPER.md) — `1091-betty-and-barney-hill`
+- [ESP and Psychokinesis (Section IV Extracts, July 1972) — Content Assessment](1092-esp/PAPER.md) — `1092-esp`
+- [Soviet and Czechoslovakian Parapsychology Research — Apports Extract (DIA Report ST-CS-01-169-72, July 1972) — Content Assessment](1093-apport-technique/PAPER.md) — `1093-apport-technique`
+- [File-Search Articles on ESP and Parapsychology (1983–1984 Press Reports) — Content Assessment](1098-clairvoyant-tracking-submarines/PAPER.md) — `1098-clairvoyant-tracking-submarines`
+- [Project Blue Book Special Report No. 14 — Content Assessment](112-cia-uap-015-project-blue-book-special-report-no-14/PAPER.md) — `112-cia-uap-015-project-blue-book-special-report-no-14`
+- [Telepathic Hypnosis and Hypnopedia (Extract, DIA Report ST-CS-01-169-72) — Content Assessment](1148-telepathy-hypnosis/PAPER.md) — `1148-telepathy-hypnosis`
+- [Census 1150 — Enhancing Human Performance: Issues, Theories, and Techniques (National Research Council, 1988)](1150-enhance-human-preference/PAPER.md) — `1150-enhance-human-preference`
+- [Dolin's Training Technique (SAIC Cognitive Sciences Laboratory Memorandum, 14 February 1994) — A Content Assessment](1152-remote-influence-training-pdf/PAPER.md) — `1152-remote-influence-training-pdf`
+- [Report by the Grill Flame Scientific Evaluation Committee (December 1979) — A Content Assessment](1153-grill-flame-scientific-eval/PAPER.md) — `1153-grill-flame-scientific-eval`
+- [Experiments With Hella Hammid (November 1974) — A Content Assessment](1154-hella-hammond-helps-police-in-murder-investigation-pdf/PAPER.md) — `1154-hella-hammond-helps-police-in-murder-investigation-pdf`
+- [Visit of AMSAA GRILL FLAME Participants to SRI, 21–22 August 1979 — A Content Assessment](1155-hella-hammond-rv-methodology-explained-pdf/PAPER.md) — `1155-hella-hammond-rv-methodology-explained-pdf`
+- [Backward Causation (Chapter from The Relentless Question) — A Content Assessment](1159-backward-causation/PAPER.md) — `1159-backward-causation`
+- [analysis of Pat Price RV session.pdf](1162-analysis-of-pat-price-rv-session-pdf/PAPER.md) — `1162-analysis-of-pat-price-rv-session-pdf`
+- [project scanate Pat Price Ingo Swann.pdf](1163-project-scanate-pat-price-ingo-swann-pdf/PAPER.md) — `1163-project-scanate-pat-price-ingo-swann-pdf`
+- [pendulum dowsing rv.pdf](1166-pendulum-dowsing-rv-pdf/PAPER.md) — `1166-pendulum-dowsing-rv-pdf`
+- [psi abstracts](1169-psi-abstracts/PAPER.md) — `1169-psi-abstracts`
+- [Census #117 — CIA Information Report: Report on Conversations With Soviet Scientists on Subject of Unidentified Flying Objects in the USSR](117-cia-uap-010-report-on-conversations-with-soviet-scientists/PAPER.md) — `117-cia-uap-010-report-on-conversations-with-soviet-scientists`
+- [psi energy](1170-psi-energy/PAPER.md) — `1170-psi-energy`
+- [psychophysical interaction](1171-psychophysical-interaction/PAPER.md) — `1171-psychophysical-interaction`
+- [psi magnification](1172-psi-magnification/PAPER.md) — `1172-psi-magnification`
+- [psi breakthrough spacial barriers](1173-psi-breakthrough-spacial-barriers/PAPER.md) — `1173-psi-breakthrough-spacial-barriers`
+- [human paranormal capabilities](1174-human-paranormal-capabilities/PAPER.md) — `1174-human-paranormal-capabilities`
+- [earthquake solar connection](1175-earthquake-solar-connection/PAPER.md) — `1175-earthquake-solar-connection`
+- [Perceptual Augmentation Techniques, Part Two: Research Report (SRI Final Report, 1975) — Content Assessment](1176-perceptual-augmentation-tech/PAPER.md) — `1176-perceptual-augmentation-tech`
+- ["Study Cites Soviet Progress on Mind Weapons" (Associated Press, 6 November 1983) — Content Assessment](1177-mind-weapon/PAPER.md) — `1177-mind-weapon`
+- [Results of an Automated File Search on Parapsychology and Remote Viewing (DIALOG search record, c. 1995) — Content Assessment](1178-psi-abstracts/PAPER.md) — `1178-psi-abstracts`
+- ["Tinker, Tailor, Soldier, Psi" by Jim Schnabel (London Independent, 27 August 1995) — Content Assessment](1179-psi-article/PAPER.md) — `1179-psi-article`
+- ["Parapsychology in Intelligence: A Personal Review and Conclusions" by Kenneth A. Kress (Studies in Intelligence, Winter 1977) — Content Assessment](1180-psi-in-intelligence/PAPER.md) — `1180-psi-in-intelligence`
+- [Bibliography of Stanford Research Institute International Publications (Grill Flame era, 1978–1989) — Content Assessment](1181-remote-prebutation/PAPER.md) — `1181-remote-prebutation`
+- [Perceptual Augmentation Techniques, Part Two: Research Report (SRI Final Report, 1975; 2000 release) — Content Assessment](1182-perceptual-augmentation/PAPER.md) — `1182-perceptual-augmentation`
+- [Proposed Star Gate Management Strategy (CIA, 1995) — Content Assessment](1183-stargate-management/PAPER.md) — `1183-stargate-management`
+- [Enhanced Human Performance Investigation: Final Technical Report, FY 1986 (SRI International, December 1986) — Content Assessment](1184-enhanced-human-performance/PAPER.md) — `1184-enhanced-human-performance`
+- [Project N-1 X — Utility Assessment Tasking Sheet](1185-project-n-1-x/PAPER.md) — `1185-project-n-1-x`
+- [Phenomenological Research and Analysis — SAIC Cognitive Sciences Laboratory Final Report (29 September 1994)](1186-phenomenological-research/PAPER.md) — `1186-phenomenological-research`
+- [A Comprehensive Research Plan for Anomalous Mental Phenomena — SAIC Plan Presented to the Defense Intelligence Agency (7 June 1991)](1187-anomalous-mental-phenomenon/PAPER.md) — `1187-anomalous-mental-phenomenon`
+- [Status of STAR GATE Program — CIA Memorandum on Transfer, Review, and Declassification](1188-status-stargate-program/PAPER.md) — `1188-status-stargate-program`
+- [Joan of Arc's Prophecies — Jean Barry, M.D. (with an interleaved journal page on state-vector collapse)](1191-joan-of-arc/PAPER.md) — `1191-joan-of-arc`
+- [Glossary of Terms (RV/ESP) — STAR GATE Program Definitions](1192-glossary-of-terms-rv-esp/PAPER.md) — `1192-glossary-of-terms-rv-esp`
+- [Newspaper Articles re Psychics — CIA Clipping File on Psychics and Police Work](1193-psychic-powers-astound-police/PAPER.md) — `1193-psychic-powers-astound-police`
+- [US Use of 'Psychic Spies' Reported — FBIS Transcription of Jim Schnabel's Independent on Sunday Article (27 August 1995)](1194-use-of-psychic-spies-reported/PAPER.md) — `1194-use-of-psychic-spies-reported`
+- [An Experiment to Test Apparent Remote Action Effects on Electrodermal Activity — Content Assessment](1195-remote-action-effects/PAPER.md) — `1195-remote-action-effects`
+- [Phenomenological Research and Analysis: Technical Proposal — Content Assessment](1196-phenomological-research/PAPER.md) — `1196-phenomological-research`
+- [Off-Site Review: Star Gate (DT-S-1033-SL) — Content Assessment](1197-dia-stargate-document/PAPER.md) — `1197-dia-stargate-document`
+- [Identification Record — app-release.aab (Census #12)](12-app-release-aab/PAPER.md) — `12-app-release-aab`
+- [CIA-UAP-007_Current_Status_of_Unidentified_Flying_Objects_UFO_Project.pdf](120-cia-uap-007-current-status-of-unidentified-flying-objects-uf/PAPER.md) — `120-cia-uap-007-current-status-of-unidentified-flying-objects-uf`
+- [CIA-UAP-006_Sighting_of_Unconventional_Aircraft.pdf](121-cia-uap-006-sighting-of-unconventional-aircraft/PAPER.md) — `121-cia-uap-006-sighting-of-unconventional-aircraft`
+- [CIA-UAP-005-GERMAN_SCIENTISTS_ ARTICLE_ON_FLYING_DISCS.pdf](122-cia-uap-005-german-scientists-article-on-flying-discs/PAPER.md) — `122-cia-uap-005-german-scientists-article-on-flying-discs`
+- [CIA-UAP-004-CASE_17708_CLOSED_AND_DR_LEON_DAVIDSON.pdf](123-cia-uap-004-case-17708-closed-and-dr-leon-davidson/PAPER.md) — `123-cia-uap-004-case-17708-closed-and-dr-leon-davidson`
+- [The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954–1974 — Content Assessment](124-cia-uap-003-the-central-intelligence-agency-and-overhead-recon/PAPER.md) — `124-cia-uap-003-the-central-intelligence-agency-and-overhead-recon`
+- [FBI-UAP-D001_FD-302_Unresolved-UAP-Report_ColoradoSprings_2022.pdf](126-fbi-uap-d001-fd-302-unresolved-uap-report-coloradosprings-20/PAPER.md) — `126-fbi-uap-d001-fd-302-unresolved-uap-report-coloradosprings-20`
+- [FBI-UAP-D002_FD-1057_Unresolved-UAP-Report_ColoradoSprings_2022.pdf](127-fbi-uap-d002-fd-1057-unresolved-uap-report-coloradosprings-2/PAPER.md) — `127-fbi-uap-d002-fd-1057-unresolved-uap-report-coloradosprings-2`
+- [FBI-UAP-D003 Digital Rendering, Colorado Springs — Identification Package for an Image-Only Exhibit](128-fbi-uap-d003-digital-rendering-unresolved-uap-report-colorado/PAPER.md) — `128-fbi-uap-d003-digital-rendering-unresolved-uap-report-colorado`
+- [Paper Reports Alleged Evidence on Mishap Involving UFO — Content Assessment](1283-kgb-spacecraft-report/PAPER.md) — `1283-kgb-spacecraft-report`
+- [CIA Article, CIA Critics — Two Clippings in One Released File — Content Assessment](1284-cia-article-cia-critics/PAPER.md) — `1284-cia-article-cia-critics`
+- [FBI-UAP-D004_FD-1057-02_Northeastern-US_2024.pdf](129-fbi-uap-d004-fd-1057-02-northeastern-us-2024/PAPER.md) — `129-fbi-uap-d004-fd-1057-02-northeastern-us-2024`
+- [Memorandum on Grill Flame, 17 July 1981 — Content Assessment](1293-memo-grill-flame/PAPER.md) — `1293-memo-grill-flame`
+- [ICA-UAP-D001_Analysis_Colorado-Springs-UAP-Incident.pdf](130-ica-uap-d001-analysis-colorado-springs-uap-incident/PAPER.md) — `130-ica-uap-d001-analysis-colorado-springs-uap-incident`
+- [FBI-UAP-D005_FD-1057-04_Northeastern-US_2024.pdf](131-fbi-uap-d005-fd-1057-04-northeastern-us-2024/PAPER.md) — `131-fbi-uap-d005-fd-1057-04-northeastern-us-2024`
+- ["Monster Season" (John A. Keel, SAGA, 1976): A Content Assessment](1311-1976-06-00-saga-john-keel-ancient-astronauts-modern-mysteries-pdf/PAPER.md) — `1311-1976-06-00-saga-john-keel-ancient-astronauts-modern-mysteries-pdf`
+- ["UFOs — 30 Years of Investigation" (John A. Keel, SAGA, 1976): A Content Assessment](1312-1976-05-00-saga-john-keel-ancient-astronauts-modern-mysteries-pdf/PAPER.md) — `1312-1976-05-00-saga-john-keel-ancient-astronauts-modern-mysteries-pdf`
+- ["The Lucifer Legend and UFOs" (John A. Keel, SAGA, 1976): A Content Assessment](1313-1976-04-00-saga-john-keel-ancient-astronauts-modern-mysteries-pdf/PAPER.md) — `1313-1976-04-00-saga-john-keel-ancient-astronauts-modern-mysteries-pdf`
+- [FBI-UAP-D006_FD-1057-05_Northeastern-US_2024.pdf](132-fbi-uap-d006-fd-1057-05-northeastern-us-2024/PAPER.md) — `132-fbi-uap-d006-fd-1057-05-northeastern-us-2024`
+- [FBI-UAP-D007_FD-1057-06_Northeastern-US_2024.pdf](133-fbi-uap-d007-fd-1057-06-northeastern-us-2024/PAPER.md) — `133-fbi-uap-d007-fd-1057-06-northeastern-us-2024`
+- [FBI-UAP-D008_FD-1057-07_Northeastern-US_2024.pdf](134-fbi-uap-d008-fd-1057-07-northeastern-us-2024/PAPER.md) — `134-fbi-uap-d008-fd-1057-07-northeastern-us-2024`
+- [FBI-UAP-D009_FD-302-67_Northeastern-Orb-Sighting_2026.pdf](135-fbi-uap-d009-fd-302-67-northeastern-orb-sighting-2026/PAPER.md) — `135-fbi-uap-d009-fd-302-67-northeastern-orb-sighting-2026`
+- [Quantum Physics and Parapsychology: Conference Report, Geneva 1974 — Content Assessment](1350-quantum-psychics-paranormal/PAPER.md) — `1350-quantum-psychics-paranormal`
+- [A Perceptual Channel for Information Transfer over Kilometer Distances — Collected Document Assessment](1351-perceptual-channel-info-transfer/PAPER.md) — `1351-perceptual-channel-info-transfer`
+- [NASA's Photos — Collected Document Assessment](1352-nasas-photos/PAPER.md) — `1352-nasas-photos`
+- [Interview with Pat Price — Collected Document Assessment](1353-interview-w-pat-price/PAPER.md) — `1353-interview-w-pat-price`
+- [Remote Viewing Experiment — Collected Document Assessment](1354-remote-viewing-experiment/PAPER.md) — `1354-remote-viewing-experiment`
+- [Information Transfer under Sensory Shielding — Collected Document Assessment](1355-info-transfer-hal-puttoff-cia/PAPER.md) — `1355-info-transfer-hal-puttoff-cia`
+- [Report of the Scientific Panel on Unidentified Flying Objects — Collected Document Assessment](1356-report-col-jorgensen-ufos/PAPER.md) — `1356-report-col-jorgensen-ufos`
+- [Little Green Men — Collected Document Assessment](1357-little-green-men-news-clip/PAPER.md) — `1357-little-green-men-news-clip`
+- [Inquiry into UFOs Still Held Needed — Collected Document Assessment](1358-inquiry-concerning-ufos-news-article/PAPER.md) — `1358-inquiry-concerning-ufos-news-article`
+- [Intelligence Advisory 👽 ufo — Content Assessment](1359-intelligence-advisory-ufo/PAPER.md) — `1359-intelligence-advisory-ufo`
+- [FBI-UAP-D010_FD-302-71_Northeastern-Orb-Sighting_2026.pdf](136-fbi-uap-d010-fd-302-71-northeastern-orb-sighting-2026/PAPER.md) — `136-fbi-uap-d010-fd-302-71-northeastern-orb-sighting-2026`
+- [Project Sun Streak — Content Assessment](1360-project-sun-streak/PAPER.md) — `1360-project-sun-streak`
+- [Info transmission under shielding condition — Content Assessment](1361-info-transmission-under-shielding-condition/PAPER.md) — `1361-info-transmission-under-shielding-condition`
+- [Ingo Swann 1978 visit — Content Assessment](1364-ingo-swann-1978-visit/PAPER.md) — `1364-ingo-swann-1978-visit`
+- [FBI-UAP-D011_DFBI-Correspondence-Referral_1949.pdf](137-fbi-uap-d011-dfbi-correspondence-referral-1949/PAPER.md) — `137-fbi-uap-d011-dfbi-correspondence-referral-1949`
+- [FBI Newark Field Office File on Unidentified Aerial Objects, 1952–1967 — Content Assessment](138-fbi-uap-d012-newark-field-office-1952-1967/PAPER.md) — `138-fbi-uap-d012-newark-field-office-1952-1967`
+- [NSA-RDP96X00790R000100010031-3.pdf — Content Assessment](1381-nsa-rdp96x00790r000100010031-3/PAPER.md) — `1381-nsa-rdp96x00790r000100010031-3`
+- [Deja Vu psychology — Content Assessment](1382-deja-vu-psychology/PAPER.md) — `1382-deja-vu-psychology`
+- [Extrasensory Perception — Content Assessment](1383-extrasensory-perception/PAPER.md) — `1383-extrasensory-perception`
+- [Dream Lab Research — Content Assessment](1385-dream-lab-research/PAPER.md) — `1385-dream-lab-research`
+- [Soviet Parapsychology 1970 — Content Assessment](1386-soviet-parapsychology-1970/PAPER.md) — `1386-soviet-parapsychology-1970`
+- [Esp & Signet — Content Assessment](1387-esp-signet/PAPER.md) — `1387-esp-signet`
+- [R.Targ ESP Grant — Content Assessment](1388-r-targ-esp-grant/PAPER.md) — `1388-r-targ-esp-grant`
+- [NSA-RDP96X00790R000100020029-5.pdf — Content Assessment](1389-nsa-rdp96x00790r000100020029-5/PAPER.md) — `1389-nsa-rdp96x00790r000100020029-5`
+- [FBI File on UFO Investigations in Washington State, 1952–1960 — Content Assessment](139-fbi-uap-d013-wa-ufo-investigation-1952-1960/PAPER.md) — `139-fbi-uap-d013-wa-ufo-investigation-1952-1960`
+- [Soviet Research on ESP and Thought Transmission — Content Assessment](1390-nsa-rdp96x00790r000100020026-8-pdf/PAPER.md) — `1390-nsa-rdp96x00790r000100020026-8-pdf`
+- [Trip Report, 23–25 January 1974, Stanford Research Institute Paranormal Investigations — Content Assessment](1391-paranormal-trip-report-sri/PAPER.md) — `1391-paranormal-trip-report-sri`
+- [Project 8904, Session of 3 February 1989 (Project Sun Streak) — Content Assessment](1392-crv-target-photo-imagery/PAPER.md) — `1392-crv-target-photo-imagery`
+- [READ Magazine Issue on Psychic Phenomena (Xerox, 1978) — Content Assessment](1393-read-xeroxcorp-1978/PAPER.md) — `1393-read-xeroxcorp-1978`
+- [A Computer-Based Laboratory Facility for the Psychophysiological Study of Psi (Lenz, Kelly, and Artley, 1980) — Content Assessment](1394-psychophysiological-study-of-psi/PAPER.md) — `1394-psychophysiological-study-of-psi`
+- [Perceptual Augmentation Techniques, Progress Report No. 3 (SRI, 1974) — Content Assessment](1395-perceptual-augmentation-tech-sri-h-puthoff-1974/PAPER.md) — `1395-perceptual-augmentation-tech-sri-h-puthoff-1974`
+- ["Boom Times on the Psychic Frontier," TIME, 4 March 1974 — Content Assessment](1396-psychic-frontier-article/PAPER.md) — `1396-psychic-frontier-article`
+- [Reply to the National Research Council Study on Parapsychology (Palmer, Honorton, and Utts, 1988) — Content Assessment](1397-reply-to-natl-resch-council-study-on-parapsychology/PAPER.md) — `1397-reply-to-natl-resch-council-study-on-parapsychology`
+- [The Soviet Psychoenergetics Research Program — Defense Intelligence Agency Technical Intelligence Report, 22 March 1982 — A Content Assessment](1398-dia-tech-rept-soviet-psycho-energetics-program/PAPER.md) — `1398-dia-tech-rept-soviet-psycho-energetics-program`
+- [Paraphysics R&D — Warsaw Pact — Defense Intelligence Agency Study DST-1810S-202-78 (1978, Change 1, 1980) — A Content Assessment](1399-paraphysics-r-d-warsaw-pact/PAPER.md) — `1399-paraphysics-r-d-warsaw-pact`
+- [CIA Scientific Advisory Panel Report on Unidentified Flying Objects, 1952–1953 — Content Assessment](140-cia-uap-002-scientific-advisory-panel-on-unidentified-flying/PAPER.md) — `140-cia-uap-002-scientific-advisory-panel-on-unidentified-flying`
+- ["Renaissance of Parapsychology" — Scott Hill, *Esotera*, April 1977 — A Content Assessment](1400-parapsychology-bioplasma-cats-and-plants/PAPER.md) — `1400-parapsychology-bioplasma-cats-and-plants`
+- [Comments on "Report by the Grill Flame Scientific Evaluation Committee" — Memorandum by Dr. J. Verona, Chairman, Grill Flame Working Group — A Content Assessment](1401-grillflame-sci-eval-comm/PAPER.md) — `1401-grillflame-sci-eval-comm`
+- ["Experimental Psi Research; Implications for Physics" — Abstract by H. Puthoff, R. Targ, and E. C. May (SRI International), 1979 — A Content Assessment](1402-abstract-the-role-of-consciousness-1979/PAPER.md) — `1402-abstract-the-role-of-consciousness-1979`
+- ["National Research Council Suppresses Evidence in Assessment of Parapsychology" — Parapsychological Association Press Release and Response Letter, 1988 — A Content Assessment](1403-natl-resch-council-suppessing-evidence-parapsychology/PAPER.md) — `1403-natl-resch-council-suppessing-evidence-parapsychology`
+- ["A Stepchild of Science Starts to Win Friends" — *U.S. News & World Report*, 31 July 1978 — A Content Assessment](1404-us-news-world-report-parapsychology/PAPER.md) — `1404-us-news-world-report-parapsychology`
+- [Advanced Threat Technique Assessment — SRI Final Report, October 1978](1405-remote-viewing-long-distance-sub/PAPER.md) — `1405-remote-viewing-long-distance-sub`
+- [An Assessment of the Evidence for Psychic Functioning — Jessica Utts, 1995](1406-evidence-for-psy-functioning/PAPER.md) — `1406-evidence-for-psy-functioning`
+- [Soviet and Czechoslovakian Parapsychology Research — DIA Report, September 1975](1408-parapsychology-soviet-research/PAPER.md) — `1408-parapsychology-soviet-research`
+- [Lie Detection Through Voice Analysis — Frederick C. Link](1409-lie-detection-through-voice-analysis/PAPER.md) — `1409-lie-detection-through-voice-analysis`
+- [DOW-UAP-D084_USArmy-Flying-Saucer-Study_1949.pdf](141-dow-uap-d084-usarmy-flying-saucer-study-1949/PAPER.md) — `141-dow-uap-d084-usarmy-flying-saucer-study-1949`
+- [PK Party History — Jack Houck, December 19, 1983](1411-pk/PAPER.md) — `1411-pk`
+- [Project Grill Flame — DIA Question-and-Answer Briefing Paper, 20 August 1981](1416-grillflame/PAPER.md) — `1416-grillflame`
+- [Content Assessment — U.S. Navy Report of Flying Discs, 1948 (Census #142)](142-dow-uap-d086-usnavy-report-of-flying-discs-1948-pdf/PAPER.md) — `142-dow-uap-d086-usnavy-report-of-flying-discs-1948-pdf`
+- [Congress, White House, and NASA UFO Correspondence, 1998 — Content Assessment](143-usg-uap-d001-congress-whitehouse-ufo-correspondence-1998/PAPER.md) — `143-usg-uap-d001-congress-whitehouse-ufo-correspondence-1998`
+- [NASA Astronaut Scientific Debriefings, 1962–1963 — Content Assessment](144-nasa-uap-d015-astronaut-scientific-debriefings-1962-1963/PAPER.md) — `144-nasa-uap-d015-astronaut-scientific-debriefings-1962-1963`
+- [Preliminary GT-4 Flight Crew Debriefing Transcript, Part I (1965) — Content Assessment](145-nasa-uap-d016-preliminary-gemini-4-crew-debriefing-part1/PAPER.md) — `145-nasa-uap-d016-preliminary-gemini-4-crew-debriefing-part1`
+- [Census #146 — Preliminary GT-4 Flight Crew Debriefing Transcript, Part II (NASA, 1965)](146-nasa-uap-d017-preliminary-gemini-4-crew-debriefing-part2/PAPER.md) — `146-nasa-uap-d017-preliminary-gemini-4-crew-debriefing-part2`
+- [DOW-UAP-D088 — U.S. Air Force Analysis of Flying Objects in the U.S., Incidents 101–172](147-dow-uap-d088-us-airforce-analysis-of-flying-objects-in-the/PAPER.md) — `147-dow-uap-d088-us-airforce-analysis-of-flying-objects-in-the`
+- [Transmission of the CIA Scientific Advisory Panel Report, 1953 — Content Assessment](148-dow-uap-d085-transmission-of-cia-scientific-advisory-panel-rep/PAPER.md) — `148-dow-uap-d085-transmission-of-cia-scientific-advisory-panel-rep`
+- [Census #149 — U.S. Air Force Analysis of Flying Objects in the U.S., Incidents 1–100](149-dow-uap-d087-us-airforce-analysis-of-flying-objects-in-the/PAPER.md) — `149-dow-uap-d087-us-airforce-analysis-of-flying-objects-in-the`
+- [NASA-UAP-D019 — Gemini V Technical Debriefing, Part 1 (1965)](150-nasa-uap-d019-gemini-5-technical-debriefing-part1-1965-pdf/PAPER.md) — `150-nasa-uap-d019-gemini-5-technical-debriefing-part1-1965-pdf`
+- [Census #151 — Preliminary GT-5 Flight Crew Debriefing Transcript, Part II (NASA, 1965)](151-nasa-uap-d020-gemini-5-technical-debriefing-part2-1965/PAPER.md) — `151-nasa-uap-d020-gemini-5-technical-debriefing-part2-1965`
+- [NASA-UAP-D021 — Gemini VII Technical Debriefing (1965)](152-nasa-uap-d021-gemini-7-technical-debriefing-1965-pdf/PAPER.md) — `152-nasa-uap-d021-gemini-7-technical-debriefing-1965-pdf`
+- [NASA Gemini 9 Experiments Debriefing File, 1966 — Content Assessment](153-nasa-uap-d022-gemini-9-debriefing-1966/PAPER.md) — `153-nasa-uap-d022-gemini-9-debriefing-1966`
+- [NASA-UAP-D018 — Gemini 4 Experiment Debriefing File (1965 material)](154-nasa-uap-d018-gemini-4-experiment-debriefing-1967-pdf/PAPER.md) — `154-nasa-uap-d018-gemini-4-experiment-debriefing-1967-pdf`
+- [ET Is Calling Me RIGHT NOW — JeffMara Podcast Interview with Cheryl Page: Content Assessment](159-cheryl-page-transcript-pdf/PAPER.md) — `159-cheryl-page-transcript-pdf`
+- [Technical Audit Memorandum: Administrative and Disclosure Review of DOW-UAP-D32](164-dow-uap-d32-audit-memo-pdf/PAPER.md) — `164-dow-uap-d32-audit-memo-pdf`
+- [Census #166 — DOW-UAP-D32_Technical_Assessment.pdf](166-dow-uap-d32-technical-assessment-pdf/PAPER.md) — `166-dow-uap-d32-technical-assessment-pdf`
+- [Technical Evaluation Memorandum: Yemen Kinetic Anomaly, Forensic Physics Analysis (File MB-772)](168-tilford-forensic-report-mb772-v4-2-pdf/PAPER.md) — `168-tilford-forensic-report-mb772-v4-2-pdf`
+- [Census #273 — This is the missing piece relics](273-this-is-the-missing-piece-relics/PAPER.md) — `273-this-is-the-missing-piece-relics`
+- [Documents Prove Pendulum Dowsing was a Military Operational Tool](280-documents-prove-pendulum-dowsing-was-a-military-operational-tool/PAPER.md) — `280-documents-prove-pendulum-dowsing-was-a-military-operational-tool`
+- [Blind Frog Ranch — Segala Video Summary, Session Analysis, and GPS Spoofing Report](281-blind-frog-ranch/PAPER.md) — `281-blind-frog-ranch`
+- [Census #284 — Pat price](284-pat-price/PAPER.md) — `284-pat-price`
+- [Strangest Verified Physics Blips (AHP) and Neuro-Anomalies (NBCP) — Anomaly Register Batch 9, Audit, and Research Brief](287-strangest-verified-physics-blips-ahp-and-neuro-anomalies-nbcp/PAPER.md) — `287-strangest-verified-physics-blips-ahp-and-neuro-anomalies-nbcp`
+- [Chinese Religious Censorship — A Saved DeepSeek AI Answer: Content Assessment](289-chinese-religious-censorship/PAPER.md) — `289-chinese-religious-censorship`
+- [Census #292 — First call delivery](292-first-call-delivery/PAPER.md) — `292-first-call-delivery`
+- [Census #293 — Quantitative Sensitivity of Weld-Zone Microclimate Gradients on CISCC Risk in SNF Dry-Storage Canisters](293-quantitative-sensitivity-of-weld-zone-microclimate-gradients/PAPER.md) — `293-quantitative-sensitivity-of-weld-zone-microclimate-gradients`
+- [Census #294 — Title- Cassini Didn’t Find Life on Enceladus — But It Didn’t Rule It Out Either](294-title-cassini-didn-t-find-life-on-enceladus-but-it-didn-t-ru/PAPER.md) — `294-title-cassini-didn-t-find-life-on-enceladus-but-it-didn-t-ru`
+- [Census #298 — Hays–Russell Region, Kansas](298-hays-russell-region-kansas/PAPER.md) — `298-hays-russell-region-kansas`
+- [Census #299 — methodologies related to intelligence work-](299-methodologies-related-to-intelligence-work/PAPER.md) — `299-methodologies-related-to-intelligence-work`
+- [Technical Memorandum: Calvert Cliffs ISFSI — CISCC Sensitivity Assessment (Public Data Calibration, 2012 Baseline)](303-draft-technical-transmittal-request-for-site-specific-data-audit/PAPER.md) — `303-draft-technical-transmittal-request-for-site-specific-data-audit`
+- [Census #304 — Transcend theory app?](304-transcend-theory-app/PAPER.md) — `304-transcend-theory-app`
+- [75 ISFSI Ranking — Prioritized Monitoring Allocation](306-doe-reply/PAPER.md) — `306-doe-reply`
+- [Quran-Only Report: Ramadan Worship and Laylat al-Qadr](308-quran-only-report-ramadan-worship-and-laylat-al-qadr/PAPER.md) — `308-quran-only-report-ramadan-worship-and-laylat-al-qadr`
+- [Ramadan Starts Tonight — Quran-Alone Session on the Night of Destiny](312-ramadan-starts-tonight/PAPER.md) — `312-ramadan-starts-tonight`
+- [Census #313 — Rolf Mowatt-Larssen, describes several mystical experiences-](313-rolf-mowatt-larssen-describes-several-mystical-experiences/PAPER.md) — `313-rolf-mowatt-larssen-describes-several-mystical-experiences`
+- [Census #314 — Ramadan begins...logic](314-ramadan-begins-logic/PAPER.md) — `314-ramadan-begins-logic`
+- [AC Technical Trials: Inspiration for the Target Entropy Concept — Content Assessment](762-cia-rdp96-00791r000200260001-8-copy/PAPER.md) — `762-cia-rdp96-00791r000200260001-8-copy`
+- [GF Progress Reports and Bibliography of SRI International Publications — Content Assessment](763-cia-rdp96-00791r000100060002-0-copy/PAPER.md) — `763-cia-rdp96-00791r000100060002-0-copy`
+- [Applications of Decision Augmentation Theory — Content Assessment](765-cia-rdp96-00789r003200210001-3-copy/PAPER.md) — `765-cia-rdp96-00789r003200210001-3-copy`
+- [Decision Augmentation Theory: Toward a Model of Anomalous Mental Phenomena, with the Applications Paper — Content Assessment](767-cia-rdp96-00791r000200280002-5-copy/PAPER.md) — `767-cia-rdp96-00791r000200280002-5-copy`
+- [Meteorite Pendulum](854-meteorite-pendulum/PAPER.md) — `854-meteorite-pendulum`
+- [Census #856 — Consciousness remote influence](856-consciousness-remote-influence/PAPER.md) — `856-consciousness-remote-influence`
+- [A Rare 1983 Archival Video Interview Clip with Alex Tanous — Content Assessment](858-a-rare-1983-archival-video-interview-clip-with-alex-tanous-w/PAPER.md) — `858-a-rare-1983-archival-video-interview-clip-with-alex-tanous-w`
+- [Census #865 — India air flight 171](865-india-air-flight-171/PAPER.md) — `865-india-air-flight-171`
+- [Census #867 — RV OBEs](867-rv-obes/PAPER.md) — `867-rv-obes`
+- [Angel series novel logical conclusions](889-angel-series-novel-logical-conclusions/PAPER.md) — `889-angel-series-novel-logical-conclusions`
+- [Angels — Content Assessment](890-angels/PAPER.md) — `890-angels`
+- [Census #891 — Unemployed angels no more](891-unemployed-angels-no-more/PAPER.md) — `891-unemployed-angels-no-more`
+- [Census #892 — June 26, 2025](892-june-26-2025/PAPER.md) — `892-june-26-2025`
+- [Eric Hunter Angel — Content Assessment](893-eric-hunter-angel/PAPER.md) — `893-eric-hunter-angel`
+- [Census #895 — Dodleson messages](895-dodleson-messages/PAPER.md) — `895-dodleson-messages`
+- [Dealing with the Annabelle doll](896-dealing-with-the-annabelle-doll/PAPER.md) — `896-dealing-with-the-annabelle-doll`
+- [June 19th 2025](897-june-19th-2025/PAPER.md) — `897-june-19th-2025`
+- [Removing Troublesome Spirits — Content Assessment](900-removing-troublesome-spirits/PAPER.md) — `900-removing-troublesome-spirits`
+- [Census #901 — Cassandra x project](901-cassandra-x-project/PAPER.md) — `901-cassandra-x-project`
+- [Census #903 — Alvin Schwartz](903-alvin-schwartz/PAPER.md) — `903-alvin-schwartz`
+- [Synthesis of Pendulum Dowsing and Distant Targeting for Spatiotemporal Exploration and Energy Work](904-synthesis-of-pendulum-dowsing-and-distant-targeting-for/PAPER.md) — `904-synthesis-of-pendulum-dowsing-and-distant-targeting-for`
+- [Remove neg spirits or demons, from a person's life, including your own](905-remove-neg-spirits-or-demons-from-a-person-s-life-inclu/PAPER.md) — `905-remove-neg-spirits-or-demons-from-a-person-s-life-inclu`
+- [Dr Baxter Pendulum Use — Content Assessment](906-dr-baxter-pendulum-use/PAPER.md) — `906-dr-baxter-pendulum-use`
+- [Census #907 — Akashic records](907-akashic-records/PAPER.md) — `907-akashic-records`
+- [Census #909 — Strange phone call on Wednesday night with CM May 29 2025](909-strange-phone-call-on-wednesday-night-with-cm-may-29-2025/PAPER.md) — `909-strange-phone-call-on-wednesday-night-with-cm-may-29-2025`
+- [Pendulum Spins — Content Assessment](910-pendulum-spins/PAPER.md) — `910-pendulum-spins`
+- [This document describes proposed DARCOM research on remote perturbation (RP).](912-this-document-describes-proposed-darcom-research-on-rem/PAPER.md) — `912-this-document-describes-proposed-darcom-research-on-rem`
+- [ESP Communications Security (COMSEC)](913-esp-communications-security-comsec/PAPER.md) — `913-esp-communications-security-comsec`
+- [Cheryl Page — Content Assessment](914-cheryl-page/PAPER.md) — `914-cheryl-page`
+- [Census #917 — Summary of distance exorcism](917-summary-of-distance-exorcism/PAPER.md) — `917-summary-of-distance-exorcism`
+- [Census #918 — Analysis of CIA psychic research](918-analysis-of-cia-psychic-research/PAPER.md) — `918-analysis-of-cia-psychic-research`
+- [Census #919 — psychoenergetic processes](919-psychoenergetic-processes/PAPER.md) — `919-psychoenergetic-processes`
+- [Census #920 — Psycho energetic](920-psycho-energetic/PAPER.md) — `920-psycho-energetic`
+- [Census #921 — Pendulum 🗺️ map dowsing](921-pendulum-map-dowsing/PAPER.md) — `921-pendulum-map-dowsing`
+- [Census #922 — Pendulum dowsing exorcism](922-pendulum-dowsing-exorcism/PAPER.md) — `922-pendulum-dowsing-exorcism`
+- [Pendulum Dowsing Theory — Content Assessment](923-pendulum-dowsing-theory/PAPER.md) — `923-pendulum-dowsing-theory`
+- [Healing past and future trauma](925-healing-past-and-future-trauma/PAPER.md) — `925-healing-past-and-future-trauma`
+- [Census #928 — Welcome Pendulum alchemy](928-welcome-pendulum-alchemy/PAPER.md) — `928-welcome-pendulum-alchemy`
+- [Census #929 — Exorcism deep dive 🦈🦈](929-exorcism-deep-dive/PAPER.md) — `929-exorcism-deep-dive`
+- [Census #932 — Telepathy deep dive 🦈](932-telepathy-deep-dive/PAPER.md) — `932-telepathy-deep-dive`
+- [My journey into pendulum use](933-my-journey-into-pendulum-use/PAPER.md) — `933-my-journey-into-pendulum-use`
+- [SUPERCONSCIOUS MIND — Content Assessment](935-superconscious-mind/PAPER.md) — `935-superconscious-mind`
