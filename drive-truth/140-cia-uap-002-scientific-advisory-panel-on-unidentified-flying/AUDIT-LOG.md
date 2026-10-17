@@ -1,0 +1,12 @@
+# Audit Log — Census 140
+
+- Source text: /home/hatch/workspace/drive-truth-followthrough/work/downloads/140-1maQlswVX6z9j0c_p-1p_pbbXJhFhBrng.txt
+- SHA-256: 0ced942a3f4c2f3ead86f5b2510f1148569940607569209c44a843e85d6ababa
+- Chars: 66,823 (wc -c). Read in full-span samples (head, 40–55%, end); most readable item in this batch.
+- Ledger card: [#140] in TRUTH-LEDGER.md — LIVE, 13.3 MB PDF, prior verdict QUEUED (identification only). Ledger's "Robertson Panel era" gloss noted in PAPER.md as consistent but not asserted from the file's legible text alone (chairman's name not legible in sampled text).
+- Pattern: collected third-party document (CIA file release). No full-text reproduction.
+- Corrections: none made to source text.
+- Unattributable claims: panel conclusions attributed to the panel throughout. The expanded-research recommendation's authorship/status within the file is flagged as unsettled in both PAPER.md sections.
+- Suspected duplicates: none identified.
+- Register rescan: neutral register; no workshop/campaign vocabulary.
+- VERIFIER: VERIFIED — VERIFY CREW 3, 2026-10-16. Source sha256 recomputed: 0ced942a3f4c2f3ead86f5b2510f1148569940607569209c44a843e85d6ababa — matches; byte count 66,823 matches, and it is the shortest of this crew's batch as the ABSTRACT states. Identification block and collected-document label present; PREMISE present; ABSTRACT counted at 242 words (within 150–250). Sampled at head, ~40–55%, and end: head carries the 'RG 263' folder marking, Val Peterson's Federal Civil Defense Administration reply (public-education interest; conference proposed), and the 13 March 1953 letter to the Secretary of Defense ('convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'; 'potential dangers to national security... suggest ways of their elimination'); interior carries the unanimous conclusion ('there was no evidence [of] a direct threat to national security in the objects sighted') and the foo-fighter passage (electrostatic/electromagnetic phenomena or light reflections, exact cause undefined); the end carries the draft recommendation 'that the Department of Defense (be directed to) undertake an expanded scientific research program' and a withdrawal sheet for a document 'DATED 17 JAN 53' removed for classified content. The PAPER's caution on the recommendation's authorship/status and on the chairman's name not being legible is appropriate. LIMITS disclose full-span sampling in the PAPER. No discrepancy.

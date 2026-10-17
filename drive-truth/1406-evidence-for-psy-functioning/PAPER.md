@@ -1,0 +1,36 @@
+# An Assessment of the Evidence for Psychic Functioning — Jessica Utts, 1995
+
+## Identification
+
+- Census number: 1406
+- Drive filename: Evidence for Psy Functioning
+- Item type: Collected third-party document. This is an external evaluation report written for the American Institutes for Research, not a document by Robert Tilford.
+- State: LIVE, as recorded on the ledger card for this item.
+- Honest label: Staged desk copy prepared 2026-10-16 from Robert Tilford's Drive; original unaltered; AI assistance disclosed.
+- Source identification in the text: An Assessment of the Evidence for Psychic Functioning, by Professor Jessica Utts, Division of Statistics, University of California, Davis. The release stamp in the text reads Approved For Release 2000/08/10, CIA-RDP96-00791R000200070001-9. A covering letter from the author to the American Institutes for Research, dated August 31, 1995, is included at the end of the text.
+
+## Premise
+
+The report was produced to evaluate, on statistical and methodological grounds, the body of experimental research on psychic functioning carried out at SRI International and at Science Applications International Corporation, and to state whether that body of work demonstrates the phenomenon it set out to test. It is one side of a commissioned evaluation: the author's covering letter notes that she had not yet received the companion report by Ray, understood from the letter to be Ray Hyman, when she submitted hers.
+
+## Abstract
+
+This report, written by statistician Jessica Utts of the University of California, Davis, assesses the experimental evidence for psychic functioning produced under United States government sponsorship at SRI International from 1973 to 1988 and at Science Applications International Corporation thereafter. Utts explains the statistical tools used in the underlying research, including p-values, effect sizes, and rank-order judging, and the methodological conditions she considers necessary before laboratory results can be taken seriously. She then reviews the SRI-era experiments, an overall analysis of that program's results, and the ten SAIC experiments, including work on target selection, remote staring, and computer guessing tasks. A separate section examines external validation through the ganzfeld experiments conducted at four laboratories, reporting hit rates of roughly one third of sessions against a chance expectation of one quarter. Utts concludes, in her own stated judgment, that anomalous cognition has been demonstrated by the standards commonly applied in science, that the effect has been replicated across laboratories and cultures, and that further resources should be directed at understanding how the ability works rather than at further proof of its existence. She also discusses whether remote viewing could be useful to government users and notes its limits, including that it is rarely fully accurate and that users cannot reliably tell which parts of a session are correct. Her conclusions are her own and are reported here as hers, not adopted by this desk.
+
+## Content Account
+
+The report begins with definitions and research procedures, then sets out the statistical framework. Utts distinguishes p-values from effect sizes, explains replication as the hallmark of a scientific result, and describes rank-order judging, in which a blind judge ranks a viewer's response against the actual target and decoy targets.
+
+The SRI era is covered in the third section, which discusses early operational successes as presented in the program's own record, the early scientific effort, and an overall analysis of the SRI experiments from 1973 to 1988, together with a comparison against results from other laboratories in the same period. The fourth section covers the SAIC era, including the ten experiments conducted there, analyses by homogeneous sets of sessions, and methodological questions. Utts reports that senders did not appear necessary for successful sessions and that static photographic targets produced stronger results than dynamic video targets in the comparison she describes. She also reports a binary computer guessing experiment in which one subject's performance was reported as enhanced from just above chance to 76 percent by an error-correcting method, while noting that the method was extremely inefficient and difficult to imagine in practical use. A separate SAIC experiment using binary coding to send a two-digit message is reported in her appendix as unsuccessful in showing evidence of psychic functioning.
+
+The fifth section turns to external validation. Utts treats the ganzfeld experiments as conceptually similar to remote viewing and reports results from four laboratories: the Psychophysical Research Laboratories work published by Bem and Honorton, with 106 hits in 329 sessions, a hit rate of 32.2 percent against 25 percent expected by chance; the University of Amsterdam series, with 46 hits in 124 sessions; the University of Edinburgh series, with 32 successes in 97 sessions; and the Institute for Parapsychology in North Carolina, with 33 hits in 100 sessions. She presents the consistency of these rates as evidence of replication.
+
+The sixth section asks whether remote viewing is useful. Utts states that the question of practical use for government purposes lies beyond the scope of her report, and she offers three considerations: that some individuals appear more talented than others and are easier to find than to train; that end users must be trained in what the phenomenon can and cannot do; and that usefulness depends on the user's familiarity with the subject matter. The seventh section states her conclusions and recommendations, quoted in substance in the abstract above. Two appendices give the effect-size formula used with rank-order judging and brief descriptions of the SAIC experiments, and a reference list follows.
+
+## Errors and Anomalies
+
+The text is optical character recognition of a scanned document. Recognition noise appears in headings, the table of contents, and some tables, including the summary table of remote viewing and ganzfeld replications, whose numeric cells are partly garbled in the recognized text. Figures quoted in this assessment were taken from the report's running prose, where they are legible, rather than from the garbled table. No substantive error in the original report was established from the text read, and no correction has been made to the source text, which is not reproduced in this assessment.
+
+## Limits
+
+This assessment rests on the recognized text of the full 32-page report. This desk read the title matter, contents, statistical framework, the external validation and usefulness sections, the conclusions, and the appendices in full, and sampled the SRI and SAIC review sections. The report is one evaluator's assessment within a commissioned review; the companion critical report referred to in the author's covering letter is not part of this item, and this assessment does not weigh the two against each other. Every statistical result and conclusion reported here is attributed to Utts or to the researchers she cites. This desk ran no independent statistical check and adopts none of the report's conclusions.

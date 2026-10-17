@@ -1,0 +1,19 @@
+# Audit Log — #1387 Esp & Signet
+
+- Source text path: /home/hatch/workspace/drive-truth-followthrough/work/downloads/1387-1sjGwOKFwYGuJwfTAcTejpOkw0ZhL0byJ.txt
+- Source text (OCR .txt) sha256: 2ade88479e95ebe44e7c5cab7720f503db559bb4a90507c9314fe135abb45963
+- Source PDF binary sha256 (from LOCAL-EXTRACT-LOG-2.md): e19a129c1e0953e71b4b028f32ead01da43d88ec3ab7e758cccb88170ce3a723
+- Source PDF pages (extract log): 3
+- OCR characters (extract log): 4590
+- Ledger card prior verdict: QUEUED — text not extracted; needs OCR/content pass before any keep/junk ruling.
+- Judgment call: Collected third-party document. Reasoning: the text is a pre-existing government, journal, broadcast, institutional, or grant document by named third-party authors or agencies, held in Robert Tilford's Drive as collected research material. PAPER.md is therefore a finished content assessment with an honest collected-document label, and the full text is not reproduced.
+- Reading: The full OCR text of 4,590 characters was read, but the item is a three-page fragment of a longer paper. Its beginning is mid-argument, its ending breaks off, and its stated questions and conclusions are missing, so this is an assessment of a fragment and is labelled as such. That incompleteness is a limit of the source, not a gap introduced by this staging.
+- Corrections: None made to the source text, which was never altered. No corrections were applied in the staged assessment beyond rendering the document's contents in the assessor's own prose. OCR noise was flagged as an anomaly class and never silently converted into a substantive claim. Basis for identifications: the document itself first, then the ledger card metadata.
+- Unattributable or document-attributed claims: The colonel's numerical coincidence, the claimed effects on cryptosecurity, and the poltergeist account involving stored emotional energy are the paper's own anecdotes and assertions, attributed to it and not verified here. Friedman's inclusion of extrasensory perception on a research list is likewise the paper's account.
+- Duplication note: SUSPECTED-DUPLICATE-OF: #1099, 'esp NSA .pdf' (in Trash). Evidence: the ledger card for #1387 records that this binary is MD5-identical to that item and places it in a surgery-list Class D duplicate group, with the live copy here as the natural survivor. That ledger relationship is carried forward as a suspicion for verification, not as a verdict reached here.
+- Register rescan: The staged PAPER.md was rescanned after drafting. It uses neutral, publication-ready prose, contains no workshop, campaign, or military vocabulary about the work, and carries no primacy or exclusivity claim. A primacy phrase appearing inside a reviewed document (#1382 only, where applicable) is reported as that document's claim and is not adopted.
+- Outcome: FINISHED-STAGED (collected-document assessment pattern)
+
+## VERIFIER
+
+VERIFY CREW L2-4 (2026-10-16) — VERIFIED. Independently recomputed: OCR sha256 matches exactly; OCR characters 4,590 match; abstract recounted at 238 words (in range). Full OCR text checked: release reference NSA-RDP96X00790R000100030057-3; the colonel's seven-digit sequence and telephone-number anecdote; the visit to William Friedman and the SIGINT recommendation; Friedman's research-subjects list; the cryptosecurity experiments on United States codes and ciphers; the periodic scanning and informal talent search; the telepathy and clairvoyance footnotes; the laboratory/spontaneous-cases frustration; and the poltergeist stored-energy passage breaking off at the two unstated questions all match the paper. The ledger metadata title appears nowhere legibly in the OCR, and the paper records that as an anomaly, as it should. Suspected-duplicate note matches the ledger card. Full evidence: work/VERIFY-LOG-L2-4.md.
