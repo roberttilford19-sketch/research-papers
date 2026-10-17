@@ -1,0 +1,35 @@
+# An Experiment to Test Apparent Remote Action Effects on Electrodermal Activity — Content Assessment
+
+## Identification
+
+- Census number: 1195
+- Drive filename: remote action effects
+- Item type: Collected third-party document. This is a declassified United States government contract report, released through the CIA CREST system under the reference CIA-RDP96-00789R003800460001-0. It is not Robert Tilford's writing.
+- State in the ledger: LIVE. Prior verdict: QUEUED, because the text had not been extracted when the ledger card was written.
+- Label: Staged desk copy prepared 2026-10-16 from Robert Tilford's Drive; original unaltered; AI assistance disclosed.
+
+## Premise
+
+The report sets out to test whether a reported remote influence on a person's electrodermal activity, meaning the small fluctuations in skin conductance also called galvanic skin response, is a direct causal effect, or whether it can instead be explained by an informational process the authors call intuitive data sorting, in which the person initiating data collection unconsciously times that collection to moments when the subject's activity already fits the intended pattern.
+
+## Abstract
+
+This December 1986 final report, covering work from 7 October 1985 to 30 September 1986 under SRI Project 1291, was written by G. Scott Hubbard of SRI International and William W. Braud of the Mind Science Foundation. It asks whether earlier Mind Science Foundation results, in which a distant "influencer" appeared to calm or activate a subject's electrodermal activity, require a causal remote action, or whether SRI's intuitive data sorting model can explain them without one. The main text argues that the experiment designed to separate the two explanations did not in fact separate them, because a variable rest period allowed the influencer to offset the fixed delays that defined the remote action condition, making the two conditions indistinguishable. It therefore concludes that the study provided no valid test of the intuitive data sorting hypothesis, and it recommends either much larger effects or designs in which sample size can be varied over orders of magnitude. Two appendices by Braud and Marilyn Schlitz report a pilot study, which found no effect, and a shortened confirmation study, which they report found significant scoring in the single-seed condition only. That outcome, they argue, is not consistent with the informational interpretation and is more congruent with a causal one.
+
+## Content account
+
+The report has three parts. The main SRI text comes first. It defines the dependent measure as a percentage score: the subject's electrodermal activity during calm-aim periods divided by the activity during calm-aim and activate-aim periods together, with 50 percent as the mean chance expectation. Three statistical tests were planned, each set at an alpha level of 0.05. The main text then identifies the design flaw described in the abstract. In the single-seed, or remote action, condition, all later delay times were fixed at the first button press. In the multiple-seeds, or intuitive data sorting, condition, delays were determined at each button press. Because the influencer could insert a variable rest period, the influencer could in the remote action condition reproduce exactly the timing available in the other condition, so the same electrodermal data could be recorded in either.
+
+The conclusions and recommendations follow from that finding. The authors state plainly that the study "did not provide a valid test" of the hypothesis. They suggest two ways forward. One is to require an effect large enough to show a clearly functional relationship, which they illustrate with a practical signal-to-noise standard drawn from radar, satellite communications, and high-energy physics, while noting that typical effect sizes in this field are far smaller. The other is to vary the sample size over several orders of magnitude, because a causal process and a purely informational process predict different relationships between effect size and sequence length. They propose applying that logic to planned fiscal year 1987 experiments on the hemolysis rate of red blood cells, using saline-treated samples that imitate the proposed effect as a comparison.
+
+Appendix A is the pilot study by Braud and Schlitz. Twenty-five people took part: five influencers and twenty subjects, each influencer working with four subjects. Sessions could last about two and a half hours, with twenty sampling epochs. The appendix reports that no evidence of an effect was found in the pilot data, and it discusses the possibility that the length of the sessions produced poor moods that worked against the result.
+
+Appendix B is the confirmation study, redesigned to shorten the sessions. Forty people took part: eight influencers and thirty-two subjects. Sampling epochs were reduced from twenty to twelve, the opening adaptation period was removed, and a two-session procedure could be completed in about forty minutes. The appendix authors report that significant scoring occurred in the single-seed condition and did not emerge in the multiple-seeds condition, and that the difference between the conditions closely approached significance. They also report two checks against a temporal-trend artefact: lag-2 autocorrelation coefficients that were small and not significantly different from zero in either condition, and a correlation between those coefficients and the experimental scores that was, in their words, extremely close to zero. Their stated conclusion is that the absence of multiple-seeds superiority is not consistent with an informational interpretation, but is more congruent with a causal or psychokinetic one. These are the appendix authors' claims, reported here as theirs. The main SRI text does not endorse them, and its design criticism applies to the experiment as a whole.
+
+## Errors and anomalies
+
+The text is OCR of a scanned document, and it carries ordinary OCR noise throughout, including broken release stamps, garbled running heads, and misread words such as "MSE" where the sense requires "MSF" for Mind Science Foundation. No substantive correction has been made to the document's claims. One structural anomaly matters for reading: the report argues against the validity of a test whose positive appendix result a reader could easily mistake for the report's own conclusion. The two must be kept separate, as this assessment does.
+
+## Limits
+
+This assessment rests on the full OCR text of 40,058 characters, covering the report's stated 19 pages. OCR noise means that individual numbers, formulae, and figure labels cannot be relied on without checking the scanned original. No claim in the document about electrodermal effects, intuitive data sorting, or psychokinesis is verified by this assessment; each is attributed to the part of the document that made it. The ledger card notes a second file with the same Drive name at census number 1200, for which no local binary exists, so byte identity cannot be checked and no duplicate ruling is made here.

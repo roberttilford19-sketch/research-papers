@@ -1,0 +1,20 @@
+# Audit Log — Census 1193
+
+- Source text path: /home/hatch/workspace/drive-truth-followthrough/work/downloads/1193-1p4_5qkaU5A_KLs4PW860yU0JG9rnKxKY.txt
+- Source sha256: afaef44854a7af215ad06d86fb01e485cfc0e8dff07cc55692c0d36750d412b1 (per LOCAL-EXTRACT-LOG-2; source PDF 396,178 bytes, 5 pages, OCR)
+- Chars read: 13,763 of 13,763 (full read)
+- Ledger card prior verdict: QUEUED — text not extracted; identification from embedded PDF metadata only (TRUTH-LEDGER.md [#1193]: "NEWSPAPER ARTICLES RE PSYCHICS," CIA CREST clipping file CIA-RDP96-00788R002000240037-5; filename reflects the clipping content generally, LIVE)
+- Judgment call: Collected third-party document. The text is newspaper journalism (Paul Bannister; Mark Jones, Los Angeles Times; The Washington Post, 23 November 1978) gathered into a declassified CIA clipping file; nothing in it is Robert Tilford's writing. Content-assessment pattern applied; full text not reproduced.
+- Corrections: None applied to substance. Heavy OCR degradation, especially in the Bannister article (interleaved columns, broken words), is flagged in the paper's Errors and Anomalies section as an anomaly class, not silently corrected. Passages too degraded to read with confidence were not used.
+- Claims not attributable beyond the documents: Every success story (Tholen's body locations, water depths, Apollo prediction; the South Gate drawing; the Jan Steers fingerprints) is a claim of the article reporting it, attributed as such in the paper. Reiser's negative evaluation conclusion is quoted from the Post's report of his paper. None independently verified by this desk.
+- Duplication note: No duplicate suspected among this crew's items. The clipping-file genre resembles census 1194 (FBIS-transcribed press article), but the contents are entirely different publications and subjects.
+- Register rescan: Framing prose checked; neutral, publication-ready register; no workshop or campaign vocabulary; no primacy claims (the Times article's own phrase "first announced police-psychic study in the country" is a claim of that article and is not adopted in this desk's framing).
+
+## VERIFIER
+
+DISCREPANCY (one ground only) — VERIFY CREW L2-1, 2026-10-16. Abstract independently recounted at 352 words (whitespace split, cross-checked by wc -w), 102 words over the 250 maximum; an abstract trim is required. All other checks pass: identity confirmed against the full OCR text (13,763 chars, independently re-measured exactly as stated — CIA clipping file CIA-RDP96-00788R002000240037-5; Bannister's Tholen article with Schut, Borst, Beloff/Edinburgh, the Al Bean splashdown passage of 24 November 1969, and the 800-year-old castle passage all present, the Utrecht professor's name surviving only in garbled OCR fragments, which the paper's OCR-noise disclosure covers; the Los Angeles Times / Mark Jones study with sealed envelopes and Dr. Martin Reiser, and The Washington Post item of Thursday, November 23, 1978, with the South Gate drawing and Jan Steers / Det. Gross accounts, all present). Full-read claim is true (5 pages); the "at least three articles" floor is honestly stated in LIMITS. Collected-document label present; no full text reproduced (longest verbatim run 8 words, a release-stamp fragment); register scan clean (the "first announced police-psychic study" phrase is the Times article's own and is not adopted in the paper, as the audit log notes).
+
+## REPAIR ADDENDUM — REPAIR CREW L2-1, 2026-10-16
+
+Basis: VERIFY CREW L2-1 measured this item's abstract at 352 words (see the VERIFIER section above and ~/workspace/drive-truth-followthrough/work/VERIFY-LOG-L2-1.md), exceeding the campaign's 250-word maximum; every other check passed. Repair applied on that basis only.
+Change: the abstract in PAPER.md was compressed only — words cut and sentences tightened, with no new claims, names, figures, or interpretations introduced and no other part of PAPER.md changed. Abstract word count (whitespace split between the "## Abstract" heading and the next heading): 352 → 246.
