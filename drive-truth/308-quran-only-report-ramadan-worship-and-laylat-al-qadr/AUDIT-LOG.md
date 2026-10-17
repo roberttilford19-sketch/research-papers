@@ -1,0 +1,16 @@
+# Audit Log — Census #308
+
+- Source text: /home/hatch/workspace/drive-truth-followthrough/work/downloads/308-1lEugyim2NJ7hONfEae8llYBzucUwS3UOdIBW6cgu9rk.txt
+- SHA-256: ae0f0ecb9045222b67bc20cd3f34e610c5a56c79fc4dd49f750540e3bde70b7f
+- Characters read: 12965 (full text read)
+- Ledger card prior verdict: QUEUED — text not pulled at ledger time owing to a connector rate limit; no content assessment was possible. The adjacent ledger card #309 treats the same Laylat al-Qadr material as Robert's own Quran-alone work and confirms from the text itself that the Quran names the night as within Ramadan and “better than a thousand months” (Q 97) without naming which night.
+- Judgment call: own-document pattern. The report applies Robert's standing Quran-alone method — terms and rulings drawn from the Quran itself, with a probability argument he uses elsewhere in his own words — and the document then accumulates AI evaluation sections around that report, which is his characteristic AI-session work pattern. It is finished as his own document, with the evaluation sections identified as such.
+- Corrections applied: one mechanical repair class: occurrences of the extraction artifact “$\rightarrow$” have been rendered as the arrow character the author intended (→). Basis: the artifact is a markup residue in the extracted text, and the surrounding prose (“Core Claim → Quranic Citation”; “Concept → Flexibility → Action”) shows the intended symbol. No wording was changed.
+- Claims not independently attributed: the verse citations are the report's own and were not independently re-verified in this pass; the AI evaluation sections' characterisations of traditional practice are general statements by those sections, carried as part of the document.
+- Duplication: substantial internal duplication, retained in full and recorded here: after the report's first full statement, the document restates the same report in condensed form a second time, and then evaluates it three times in successive AI sections. The restatement and evaluations are part of the session record as Robert kept it, so nothing was removed; readers should treat the first statement as the report and the remainder as commentary on it.
+- Register rescan: the framing sections of PAPER.md (identification, premise, abstract, limits) use neutral, publication-ready language. The full text is Robert's own document and is reproduced as written, including any vocabulary that belongs to the document itself; the desk framing adds none of it.
+- Outcome: FINISHED-STAGED.
+
+## VERIFIER
+
+- VERIFY CREW 6, 2026-10-16: **VERIFIED.** Source SHA-256 recomputed ae0f0ecb9045222b67bc20cd3f34e610c5a56c79fc4dd49f750540e3bde70b7f and 12,965 characters, matching this log exactly. Abstract counted at 225 words, within 150–250. Normalized whole-text diff: exactly three divergences, all of the single logged repair class — each occurrence of the extraction artifact in the source (three occurrences of the $\rightarrow$ markup residue, in "Core Claim → Quranic Citation" and twice in "Concept → Flexibility → Action") is rendered as the arrow character "→" in the staged copy; the staged Finished Text holds exactly three "→" characters and no remaining artifact, and no wording was changed. Head and tail otherwise match. Register rescan confirmed: framing sections are neutral.

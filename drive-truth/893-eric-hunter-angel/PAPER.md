@@ -1,0 +1,42 @@
+# Eric Hunter Angel — Content Assessment
+
+## Identification
+
+- Census #: 893
+- Drive filename: Eric Hunter angel
+- Item type: Collected material — a record of an AI-assisted study session analyzing a video by Eric Hunter on calling in a guardian angel, held in Robert Tilford's Drive
+- State: LIVE (per ledger card [#893])
+- Label: Staged desk copy prepared 2026-10-16 from Robert Tilford's Drive; original unaltered; AI assistance disclosed. This is a content assessment of a collected document, not a work of Robert Tilford's authorship.
+
+## Premise
+
+The document records a study session in which an AI assistant answers a series of increasingly specific questions about a video by Eric Hunter, a pendulum practitioner and author of *Pendulum Alchemy*. The questions ask for the video's methodology, for Hunter's exact words on particular points — the energizing rotation of the pendulum, the need to build a relationship with one's guardian angel before a crisis, the free-will condition on angelic help, and the analogy of opening and closing doors — and then for lists of inferred and deduced facts about the video, cross-referenced against each other and extended by further forms of reasoning.
+
+## Abstract
+
+This document is the record of an AI-assisted analysis of a video in which Eric Hunter teaches a pendulum protocol for inviting one's guardian angel and promotes a live group healing event. As the session reports it, Hunter presents guardian angels not as a religious concept but as spiritual beings that have protected humans since the beginning of time and that act as intermediaries between the spirit and material worlds. The protocol he teaches is simple: hold the pendulum and let it hang freely, set an intention for the highest good of all concerned, rotate the pendulum to energize it, speak a fixed command of invitation — taken, as the session establishes, from the verses of his book *Pendulum Alchemy*, over which the pendulum is held — observe the pendulum's movement as the angel's response, and close with gratitude. Hunter's governing conditions, quoted repeatedly in the session, are that angels respect free will and can help only when invited; that past anger or cursing of the divine may have closed the door to that help, which the invitation reopens; and that a relationship with one's guardian angel should be established in calm times rather than in desperation. Archangels, in his account, are better suited to daily healing and manifestation work, while the guardian angel is the being of personal protection. The session then multiplies analytical layers over this material: inferred and deduced fact lists, cross-referencing, proposed triangulation against outside sources, and abductive, analogical, and cause-and-effect analyses.
+
+## Content account
+
+The session's factual core about the video is as follows, all of it on the document's authority.
+
+Guardian angels, in Hunter's presentation, are spiritual beings, not a religious concept, which have protected humans since prehistoric times and serve as intermediaries between the higher spirit realms and the earth. Hunter claims to have seen evidence of their existence. They can help only under a condition he states repeatedly: "they can only come in if you invite them in they can only work with you if you allow them to work with you or if you ask for their help because you have free will and they're not going to take away your free will." The same condition applies, he says, to archangels.
+
+The pendulum protocol, as the session assembles it from the video, has six steps. The practitioner holds the pendulum by its chain and lets it hang freely. He states an intention, in the form "Contacting my guardian angel to work out for my highest good and the highest good of all concerned." He rotates the pendulum clockwise or counter-clockwise to energize it; Hunter is quoted: "remember the rotation of the pendulum is in an energizing force... it's completely neutral... but it's high vibe... it's like positive energizing force that will energize your statements." He speaks the command: "Beloved guardian angel, I invite you into my life to help, guide, and protect me in ways that are for my highest good and the highest good of all concerned." He observes the pendulum's movement — swinging, rotating, or stopping — as responses or messages. He closes by rotating the pendulum again and expressing gratitude. The session corrects itself on one point at the questioner's prompting: the command is read from Hunter's book *Pendulum Alchemy: A Practical Guide to Using your Pendulum for Energy Healing and Manifestation*, and the pendulum is held over the verses in the book. The assistant's acknowledgment of the omission is preserved in the document ("Oops, you are absolutely correct! I apologize for the oversight.").
+
+On the timing of the relationship, Hunter is quoted: "it's better just to establish an honest relationship with your guardian angel when you're not desperate and don't need it... because it's just respectful on a spiritual level," and "you do it at times when you're not totally screwed you can call upon your guardian angel thank them in your daily prayer." On the door analogy, he is quoted: "you may have actually through past actions in your life where you cursed the divine... you may have actually closed the door to the guardian angel being able to come in to help you so by doing this simple process you can open the door again."
+
+The promoted event, as described, is a live ceremony in which Hunter and three other energy healers hold space while channeling archangel frequencies, guardian angels, and other beneficial beings, using pendulum, spoken word, and ritual, with Reiki and pendulum alchemy energy among the modalities; participants are promised a direct experience of their guardian angel in the latter part of the event. The session notes that the ritual is described in the context of this event and that the video does not provide detailed instructions for performing it alone.
+
+The analytical layers generated in the session — the two lists of twenty-five facts, the cross-referencing, the triangulation proposals (Wikipedia and theosophical literature on guardian angels; near-death experience research; energy-medicine literature), and the abductive and cause-and-effect exercises — are the session's own constructions. Their conclusions are modest and are stated as such within the document: the reasoning can generate plausible explanations but is not a substitute for empirical evidence, and the video's claims lack rigorous scientific support while resting on long-standing cultural traditions and reported personal experience.
+
+## Errors and anomalies
+
+- Numbering error in the session's first list of twenty-five inferred facts: the items run 1 through 22, then an item numbered "32," then 23, 24, and 25. The "32" is plainly a misnumbering of the twenty-second item in sequence.
+- The practitioner's surname is spelled "Hunter" throughout this document, while a related item in this collection (census 910), concerning a video by the same pendulum author, gives the name as "Dr. Erich Hunter." The documents disagree on the spelling of the first name (Eric versus Erich); neither document resolves the discrepancy, and this assessment does not settle it.
+- One item in the session's analytical text carries stray formatting artifacts from its source ("*Pendulum Alchemy is mentioned as a source…*" with misplaced asterisks), indicating text carried over from a formatted original.
+- The quotations from the video are presented in the document as verbatim, with timestamps, but the session itself demonstrates fallibility on this material: the assistant initially omitted the book detail and corrected itself only when prompted. The quotations are therefore carried here on the document's authority, not as verified transcripts.
+
+## Limits
+
+The desk read the full document; the underlying video was not available to this pass, so the summary, the quotations, and the timestamps rest on the document alone. Hunter's claims — the existence and history of guardian angels, the efficacy of the protocol, and the effects promised for the event — are his claims as the session reports them and are not adopted here. The session's inferred and deduced "facts" are labeled inferences and deductions within the document itself and are reported in this assessment as such, not as findings about the world.
