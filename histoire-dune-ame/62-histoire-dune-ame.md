@@ -4,7 +4,7 @@
 
 A Boneyard dossier — researched and presented by Robert Tilford, Hays, Kansas. Filed 17 October 2026.
 
-Disclosure: prepared with AI assistance — the six subject reviewers named in the index are AI agents, each desk-checked at this desk; all rulings and final decisions are the author's own.
+Disclosure: prepared with AI assistance — the subject reviewers are AI agents, each desk-checked at this desk; all rulings and final decisions are the author's own.
 
 This dossier presents Chapters I–VIII of XII only, translated from the 1912 Lisieux printing (Project Gutenberg No. 36708), which the edition holds to reproduce the 1898 composite unchanged — a collation against the 1898 first impression is outstanding.
 

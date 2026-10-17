@@ -4,7 +4,7 @@
 
 A Boneyard dossier — researched and presented by Robert Tilford, Hays, Kansas. Filed 14 October 2026.
 
-Disclosure: prepared with AI assistance — the six subject reviewers named in the index are AI agents, each desk-checked at this desk; all rulings and final decisions are the author's own.
+Disclosure: prepared with AI assistance — the subject reviewers are AI agents, each desk-checked at this desk; all rulings and final decisions are the author's own.
 
 ## Dedication
 
