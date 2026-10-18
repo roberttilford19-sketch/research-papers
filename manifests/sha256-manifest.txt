@@ -190,3 +190,4 @@ b703fe420ac861f88402e5c0dfb5ab64d4de16a5836c1671022f2a27c7b91b4b  histoire-dune-
 faf56db73da494e357757a001dd33caccd4879f3392b463e8f5b982a60708bcd  ellis/63-ellis-tirukkural-READ.mp3
 b88d088b930084ebe175fbc6d906f2747cc56029f133863b0458c67733e2dbad  manifests/ADDENDUM-2026-10-16-disclosure-tightening.md
 873187915f1755ed24617bdda4fb43713ae5502e341d9a001692d80ba275b321  spectra/SPECTRA.md
+0f5f01c7d235f2a4a7bc9c5097eb1aeefca7f59f8fa8053ae4325e74ad6a8838  spring-heeled-jack/SOURCE-BASE.md
