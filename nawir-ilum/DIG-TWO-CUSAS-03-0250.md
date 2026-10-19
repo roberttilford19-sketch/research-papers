@@ -385,3 +385,13 @@ The Author's Apology that rides in this dossier is untouched by this addendum an
 On 19 October 2026, Robert Tilford adopted Item A1 of the consolidated ruling list (NAWIR-ILUM-FULL-REPORT-2026-10-19, section 7), and the variance it names is recorded here beside the memorial part it touches. The memorial's text stands unaltered.
 
 **The addendum:** "The memorial carries Pitts's figures for CUSAS 3, 252: ninety-five full-time women weavers and fifteen at a third rate. BDTNS's revised transliteration of the tablet (BDTNS 163025, read 2026-10-19) reads ninety-seven on the envelope, ninety-seven restored on the tablet, and adds a third class — women workers in flax — whose number is lost. The variance is recorded, not settled; the memorial's figure stands as Pitts's."
+
+---
+
+## ADDENDUM — 19 October 2026 — Robert's ruling: the character of the Festschrift printing recorded (Item A2)
+
+On 19 October 2026, Robert Tilford adopted Item A2 of the consolidated ruling list (NAWIR-ILUM-FULL-REPORT-2026-10-19, section 7), strengthened by the Perplexity panel return of the same morning. The dossier's text and its tightened primacy label stand unaltered.
+
+**The addendum:** "BDTNS codes Mayr & Owen 2004 (Fs. Pettinato = HSAO 9, pp. 145–174) as 'Edition (H, T)' for CUSAS 3, 250 and 252 alike, its transliterations of both mourning tablets printed there under the seals they bear (no. 10 for 250; no. 8 for 252), and as a seal reference for the fellow witness CUSAS 3, 223. The primacy record and the tightened label of the 19 October addendum stand as written."
+
+**The panel's sentence, riding with it by the same ruling:** the same Fs. Pettinato reference (pp. 162, 167, no. 10) is assigned in BDTNS (record 163019) to a third tablet, CUSAS 3, 248 (P323821), whose complete tablet, envelope, and seal transcription names no Nawir-ilum; both tablets carry the same Šu-Kabta royal gift seal. The duplicate assignment is a fact of the records; its cause — shared seal, publication layout, or catalogue error — is unverifiable until the original chapter is inspected.
