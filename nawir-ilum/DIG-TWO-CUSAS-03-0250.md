@@ -395,3 +395,11 @@ On 19 October 2026, Robert Tilford adopted Item A2 of the consolidated ruling li
 **The addendum:** "BDTNS codes Mayr & Owen 2004 (Fs. Pettinato = HSAO 9, pp. 145–174) as 'Edition (H, T)' for CUSAS 3, 250 and 252 alike, its transliterations of both mourning tablets printed there under the seals they bear (no. 10 for 250; no. 8 for 252), and as a seal reference for the fellow witness CUSAS 3, 223. The primacy record and the tightened label of the 19 October addendum stand as written."
 
 **The panel's sentence, riding with it by the same ruling:** the same Fs. Pettinato reference (pp. 162, 167, no. 10) is assigned in BDTNS (record 163019) to a third tablet, CUSAS 3, 248 (P323821), whose complete tablet, envelope, and seal transcription names no Nawir-ilum; both tablets carry the same Šu-Kabta royal gift seal. The duplicate assignment is a fact of the records; its cause — shared seal, publication layout, or catalogue error — is unverifiable until the original chapter is inspected.
+
+---
+
+## ADDENDUM — 19 October 2026 — Robert's ruling: the two candidates outside the census recorded (Item A3)
+
+On 19 October 2026, Robert Tilford adopted Item A3 of the consolidated ruling list (NAWIR-ILUM-FULL-REPORT-2026-10-19, section 7). The census of the memorial part stands unaltered at thirty-seven; this addendum records two candidates outside it, counted nowhere.
+
+**The addendum:** "Two attestations stand outside the census of thirty-seven and are recorded here as candidates for collation, counted nowhere. CUSAS 3, 220 (BDTNS 162965) books three fullers hauling 'the boat Nawir-ilum' from Nippur to the E2-dŠu-dSuen in Šū-Suen 5 — a namesake attestation within the man's lifetime and circle, read entire in the house's companion memo; the name occurrence is corroborated by the Perplexity panel return of 19 October 2026 from its own road. Tsouparopoulou (ZA 110, 2020) cites a further Garšana text, 'Garšana 1130' (Šū-Suen 5), naming a Nawir-ilum in connection with textiles of Gula; its name-form is unverified — no road walked has read that tablet entire. Either candidate may be the seventh Garšana mention of Kleinerman's count; neither is counted here, and the census stands at thirty-seven."
