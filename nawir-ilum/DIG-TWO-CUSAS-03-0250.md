@@ -377,3 +377,11 @@ On 19 October 2026, on the desk's report of the seam recorded in the memorial pa
 **The tightened label:** "No published translation of this tablet, in any language, was found after research (the roads are named in Phase 4). One partial exception stands on the record and is named: Audrey Pitts, *The Cult of the Deified King in Ur III Mesopotamia* (Harvard University dissertation, 2015), note 849, cites this tablet's mourning account under a second designation — Fs. Pettinato 162, 167, no. 10 — and describes its operative lines in English, the fuller roster man for man and rate for rate. An edition of the text under that designation, and a footnoted description of its operative lines, are not a translation of the tablet; no published rendering of any complete line of this tablet was found. The exception is named so that the label claims nothing the record contradicts."
 
 The Author's Apology that rides in this dossier is untouched by this addendum and stands as before: DRAFT, awaiting Robert's editing pass.
+
+---
+
+## ADDENDUM — 19 October 2026 — Robert's ruling: the Šu-Kabta mourning count variance recorded (Item A1)
+
+On 19 October 2026, Robert Tilford adopted Item A1 of the consolidated ruling list (NAWIR-ILUM-FULL-REPORT-2026-10-19, section 7), and the variance it names is recorded here beside the memorial part it touches. The memorial's text stands unaltered.
+
+**The addendum:** "The memorial carries Pitts's figures for CUSAS 3, 252: ninety-five full-time women weavers and fifteen at a third rate. BDTNS's revised transliteration of the tablet (BDTNS 163025, read 2026-10-19) reads ninety-seven on the envelope, ninety-seven restored on the tablet, and adds a third class — women workers in flax — whose number is lost. The variance is recorded, not settled; the memorial's figure stands as Pitts's."
