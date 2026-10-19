@@ -1,6 +1,6 @@
 # Dig Two — CUSAS 03, 0250 = CDLI P324343 (the twin mourning tablet)
 
-*Robert Tilford's pick, 2026-10-19 — the scout's recommended candidate, the twin of the First Dig's passed piece. This dossier is the dig's deliverable for Robert's eyeball. Nothing in it has been published, posted, uploaded, or sent. The translation it carries is labeled DRAFT on its face, and the Author's Apology is carried in place at the end, still a draft, awaiting Robert's editing pass.*
+*Robert Tilford's pick, 2026-10-19 — the scout's recommended candidate, the twin of the First Dig's passed piece. This dossier is the dig's deliverable for Robert's eyeball. Nothing in it has been published, posted, uploaded, or sent. The translation it carries is labeled DRAFT on its face, and the Author's Apology is carried in place at the end, finalized on Robert's ruling of 19 October 2026 (see the finalization note at the Apology).*
 
 ## Identification
 
@@ -229,9 +229,9 @@ Four, carried openly, none smoothed.
 
 And one open item, named rather than buried: the compound *sag-tag* (obverse 1) has no dictionary gloss on the roads run, and Heimpel's *Workers and Construction Work at Garšana* — the one study whose scope covers Garšana crew classes directly — is the same book Phase 2 could not re-read in full. If a rendering or a gloss for the term sleeps there, this dossier's roads would not have woken it. The term is carried untranslated, the inference from its position is labeled an inference, and the gap is stated here, in the open, where a future reader with the book in hand can close it.
 
-## The Author's Apology — carried in place, DRAFT, not finalized
+## The Author's Apology — finalized on Robert's ruling, 19 October 2026
 
-*The text below is Robert's, rendered by the desk from his dictated substance on 2026-10-19 and carried here exactly as it stands in AUTHORS-APOLOGY-draft-2026-10-19.md — a draft for his editing pass, not final wording. When Robert rules it, its date stands as written and its bracketed roads are completed from the true roads named in Phase 4 of this dossier: the CDLI record and bibliography for P324343; the BDTNS record 163023; the ePSD2 transliteration resource; Owen & Mayr, CUSAS 3 (2007), the standard edition; Sallaberger (2011) and Tsouparopoulou (2014) read in full; and web searches under the tablet's designation, museum number, and content words — with the Heimpel (2009) limit stated beside them, as Phase 4 states it.*
+*The text below is Robert's, rendered by the desk from his dictated substance on 2026-10-19. Robert ruled on 19 October 2026, in his own words: "It stands — finalize the Apology." Its date stands as written, and the records searched are completed beneath his signature from the true roads named in Phase 4 of this dossier: the CDLI record and bibliography for P324343; the BDTNS record 163023; the ePSD2 transliteration resource; Owen & Mayr, CUSAS 3 (2007), the standard edition; Sallaberger (2011) and Tsouparopoulou (2014) read in full; and web searches under the tablet's designation, museum number, and content words — with the Heimpel (2009) limit stated beside them, as Phase 4 states it.*
 
 ---
 
@@ -247,11 +247,13 @@ I did not make this tablet. I only carried it a little way, into English, so tha
 
 — Robert Tilford, Hays, Kansas
 
-[The records searched, to be completed at publication: the CDLI catalogue and its bibliography; the electronic Babylonian Library (eBL); Oracc; the standard edition for the fragment's corpus; and the wider web.]
+The records searched: the CDLI catalogue and its bibliography for this tablet (P324343); BDTNS record 163023; the ePSD2 transliteration resource; Owen & Mayr, CUSAS 3 (2007), the standard edition for the Garšana corpus; Sallaberger (2011) and Tsouparopoulou (2014), read in full; and web searches under the tablet's designation, museum number, and content words. One limit stands beside them, stated in Phase 4 of this dossier: Heimpel (2009) could not be re-read in full from open sources.
 
 ---
 
 *End of the dig's deliverable. The verdict this dossier asks of Robert is the one the First Dig asked: his eyeball, and his word on the Apology's final wording, before anything here moves.*
+
+**Finalization note — 19 October 2026.** Both were given. Robert's eyeball passed this dossier and his publication word sent it to the public shelf, where it stands with its dated addenda (A1–A3, B1–B2); and on the Apology his word, given the same day, was: "It stands — finalize the Apology." The Apology above is final as of that ruling. The statements in the earlier addenda that the Apology stood DRAFT were true at their dates and stand unaltered, as the house corrects by addition, never by silent rewrite.
 
 B1. Source named for every claim.
 B2. Tier stated in the same breath as the claim.
