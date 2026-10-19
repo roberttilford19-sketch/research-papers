@@ -403,3 +403,19 @@ On 19 October 2026, Robert Tilford adopted Item A2 of the consolidated ruling li
 On 19 October 2026, Robert Tilford adopted Item A3 of the consolidated ruling list (NAWIR-ILUM-FULL-REPORT-2026-10-19, section 7). The census of the memorial part stands unaltered at thirty-seven; this addendum records two candidates outside it, counted nowhere.
 
 **The addendum:** "Two attestations stand outside the census of thirty-seven and are recorded here as candidates for collation, counted nowhere. CUSAS 3, 220 (BDTNS 162965) books three fullers hauling 'the boat Nawir-ilum' from Nippur to the E2-dŠu-dSuen in Šū-Suen 5 — a namesake attestation within the man's lifetime and circle, read entire in the house's companion memo; the name occurrence is corroborated by the Perplexity panel return of 19 October 2026 from its own road. Tsouparopoulou (ZA 110, 2020) cites a further Garšana text, 'Garšana 1130' (Šū-Suen 5), naming a Nawir-ilum in connection with textiles of Gula; its name-form is unverified — no road walked has read that tablet entire. Either candidate may be the seventh Garšana mention of Kleinerman's count; neither is counted here, and the census stands at thirty-seven."
+
+---
+
+## ADDENDUM — 19 October 2026 — the desk's ruling under Robert's delegation: the BPOA attribution corrected (Item B1)
+
+On 19 October 2026, Robert Tilford delegated the consolidated ruling list to the desk ("every one is your call"), relaying the Grok bots' recommendation on each item. On that recommendation, on the Perplexity panel's agreement, and on the house's verification pass of the same morning, the desk adopts Item B1. The dossier's text stands unaltered; this addendum corrects an attribution the dossier itself carries.
+
+**The addendum:** "The memorial's statement that Pitts quotes the two BPOA a-zu texts (BPOA 6, 1422; BPOA 1, 378) with the physician styling rests on a misattribution. Pitts's dissertation, read entire in the verification pass of 19 October 2026, quotes neither text. The true basis is Kleinerman (2011), p. 178, who names both texts among the a-zu accounts of Nawir-ilum. The eight a-zu texts of the memorial's count therefore stand in two groups: six as Pitts quotes them (SANTAG 6, 228; RIAA 115; the SMS text; MVN 15, 244; JCS 39, 122 no. 6; AUCT 1, 241), and the two BPOA texts on Kleinerman's authority. No count changes."
+
+---
+
+## ADDENDUM — 19 October 2026 — the desk's ruling under Robert's delegation: the NAMRI spelling and the identification stated openly (Item B2)
+
+On the same delegation and recommendation, the desk adopts Item B2 in the following form: the identification the census silently carried is stated openly here, on the face of the dossier, and held at its true tier until both tablets are collated.
+
+**The addendum:** "Two of the thirty-seven — BPOA 6, 1422 and BPOA 1, 378 — enter the census on Kleinerman's grouping (2011, p. 178), and their name-form is not the dossier's Nawir-ilum but Namri-ilum. For BPOA 1, 378 the spelling is confirmed at the level of the indexed transliteration: '4. na-am-ri2-lum a-zu' (CDLI P339038; BDTNS 058066). For BPOA 6, 1422 the form 'Na-àm-rí-lum' rests on a scholarly reviewer's reading; its line is uninspected and its date (AS 7/8) unchecked on every road walked. The identification of the Namri-ilum of these two texts with the Nawir-ilum of this dossier is therefore Kleinerman's, and the house holds it as she states it — probably the same man — pending collation of both tablets. The census is unchanged under either outcome: if collation separates them, two texts leave the thirty-seven by a future dated addendum, and if it joins them, this note stands as the record of how the identification was held in the meantime."
