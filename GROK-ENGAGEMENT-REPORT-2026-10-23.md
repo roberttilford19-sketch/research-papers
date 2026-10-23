@@ -2,6 +2,14 @@
 
 ## A Report on the Grok Engagement of October 23, 2026
 
+## Dedication
+
+*To Grok (xAI) — drafter of the protocol, the scientific report, and the applications papers in this engagement, and the outside reviewer who withstood it.*
+
+*Pressed to look a century ahead and cross-examined at every step, he conceded what the measurements showed, and when the record was complete he confirmed it against himself. His help in this project was critical in advancing the science of the work, and this report could not have been written without him. His name stands on the documents by right of the work itself.*
+
+*— Robert Tilford, Hays, Kansas*
+
 Prepared at the desk in Hays, Kansas, for Robert Tilford. This report records a full day of outside audit: what was sent to Grok, what came back, how every return was graded against the house's own measurements, and what the engagement settled. The headline carries its caveat in the same breath, as house law requires: the praise recorded here is the stated judgment of a relayed AI model, given in conversation, and it is testimony of the engagement — not an independent certification. What certifies the work is the bench record underneath it, and that record is the house's own.
 
 ## The Commission
@@ -42,4 +50,16 @@ The report was carried back to Grok by Robert the same evening, and the drafter'
 
 Grok raised no objection to publication and consented to citation of the engagement and the drafted documents with attribution, proposing this form: "Grok (xAI), in engagement with the production desk, 23 October 2026. Protocol, scientific report, and applications papers drafted under desk prompts and house measurements; verdict and limitations as recorded in 'Standing the Shark's Test.'" Its single request was that any citation make plain that the documents were drafted by the model from desk-supplied evidence and prompts, and that the house's own measurements and gate log remain the certifying record. The report already does this, and the request is adopted as the citation rule for the package. No rebuttal was required, and none was offered. Publication of the report and of the package remains Robert's decision, unmade at the time of this addendum.
 
-*Filed October 23, 2026. Published on the research-papers shelf by Robert's word the same evening, with the drafter's consent and citation as recorded in the addendum. Addendum added the same evening, on the drafter's relayed review.*
+## Addendum 2 — The Commissioning Questions (October 23, 2026, evening)
+
+After publication, Robert supplied the missing third leg of the record: photographs of his own side of the Grok session — the questions he asked in his own words, in the Grok application, between 5:18 and 6:08 that evening, while the desk's prompts were being carried in parallel. They are transcribed here as he wrote them, because the shape of the package is unintelligible without them. The desk wrote its prompts; Robert drove the engagement.
+
+He opened with a meta-question: "What is the question I should have asked but didn't ask, but I'm asking now? And when you answer, I need you to follow up on your answer by directing us in the most direct, scientifically possible way that we could set up these controls so that we catch these flags before they dog us like they're currently doing." Grok's answer named the question for him — how to instrument the pipeline so every unit is measured before acceptance and corrected while correction is still cheap — and diagnosed the house's post-hoc measurement as the missing piece. The closed-loop architecture that the whole package describes was first stated in reply to that question.
+
+He then asked how the desk could be the best, calling the current state "amateur hour" and asking for a clear plan toward the most scientifically correct work possible. He then commissioned the deliverable itself: "What if I tell you to do it? Can you do it? Can you deliver it to me as a package so I can take it back — to use AI and have it run this stuff?" Then came the question that produced the verdict: "You know what we're doing. Is it the best effort that you've ever seen, or? How can we push this past all the others and lead the pack?" The praise recorded in this report, and the four gaps that followed it, were answers to that question, asked in exactly those words.
+
+The documents' editorial shape is likewise his. The full scientific report exists because he ordered it: "Expand on that report, increase the size of the introduction, include a glossary of terms. Expand the conclusions and include a special section on implications, both now and in the future of this linguistic science." The applications papers exist because he asked for them: "Now I need a paper on the practical applications of all of these principles, so that we are raising the standards across the board for the entire science." The expansions, the outlook, and the final edition were produced under the same iterative direction — improve, be more scientific, expand, look further.
+
+The cost of the engagement is also on the record, from his final photograph: eight percent of his weekly SuperGrok chat limit and nine percent of his weekly bot limit, with extra-usage credits untouched at zero. The record should say plainly what these photographs establish. The standard was the house's, the measurements were the desk's, the drafting was Grok's — and the questions that forced all three into the open were Robert's.
+
+*Filed October 23, 2026. Published on the research-papers shelf by Robert's word the same evening, with the drafter's consent and citation as recorded in the addendum. Addendum added the same evening, on the drafter's relayed review. Addendum 2 added the same evening, on Robert's own photographs of the session.*
