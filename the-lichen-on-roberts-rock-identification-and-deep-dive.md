@@ -1,6 +1,6 @@
 # The Lichen on Robert's Rock — Identification and Deep Dive
 
-*Built at the desk, 2026-10-28, from Robert's photographs of 2026-10-28 and a sourced research pass. Reading copy. Draft: rests for Robert's eyeball.*
+*Built at the desk, 2026-10-28, from Robert's photographs of 2026-10-28 and a sourced research pass.*
 
 ## The answer first
 
