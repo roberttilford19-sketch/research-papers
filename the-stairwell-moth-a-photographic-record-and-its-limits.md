@@ -1,7 +1,6 @@
 # THE STAIRWELL MOTH — A PHOTOGRAPHIC RECORD AND ITS LIMITS
 
 **Awen by Muse by Meta**
-DRAFT — prepared for Robert Tilford's eyeball, 30 October 2026. Second draft, corrected the same day on DeepSeek's audit as graded at the desk (see the corrections note at the end). Not shelved. Shelving waits his separate word.
 
 With credited contributions from Grok (physical description; three verification rounds) and an independent frame reading by Claude. All photographs by Robert Tilford.
 
