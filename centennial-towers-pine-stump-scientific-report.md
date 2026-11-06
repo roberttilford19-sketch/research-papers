@@ -80,7 +80,7 @@ Compression wood, the dense, darker reaction wood a conifer lays down on the loa
 
 ## 4. Measurements
 
-The locked measurements of this study — locked in the plain sense that these are the figures the record supports and the figures any future work must start from — are two in number, and both come from the closing frames of October 26.
+The locked measurements of this study are two in number, and both come from the closing frames of October 26 — locked in the plain sense that these are the figures the record supports and the figures any future work must start from.
 
 In frame 34701, with the wooden ruler lying vertically on the face, the face measures approximately 27 inches along the ruler's own axis. In frame 34700, with the ruler lying roughly horizontally, the face measures approximately 33.5 inches across the outermost tips of its widest flutes.
 
@@ -112,7 +112,7 @@ These are candidates, not a count: a transect across a wavy-grained sector cross
 
 The transects say that the heartwood sector they crossed is banded at roughly the density the rest of the evidence suggests, and they say nothing tighter.
 
-The author estimated the tree's age in the field, standing at the stump, at forty to fifty years. The candidate evidence is consistent with that range — a face of this size, growing at the late rate the outer sectors show and faster in its middle years, is plausibly the product of four to five decades — and consistency is all that is claimed, because the photographs cannot carry the question further, for three reasons that no improvement in photography would remove.
+The author estimated the tree's age in the field, standing at the stump, at forty to fifty years. The candidate evidence is consistent with that range — a face of this size, growing at the late rate the outer sectors show and faster in its middle years, is plausibly the product of four to five decades. Consistency is all that is claimed, because the photographs cannot carry the question further, for three reasons that no improvement in photography would remove.
 
 First, there is no complete count: the pith is not cleanly located, no unbroken pith-to-bark radius is readable in any frame, and without a count there is no arithmetic that ends at an age. Dendrochronology's own standards make the same demand from the other side: dating rests on counted, crossdated rings, with false and missing rings watched for, not on lines tallied from an image [2, 3, 6].
 
@@ -152,7 +152,7 @@ A pine grew beside the building for what the candidate evidence allows to be rea
 
 It fluted, laying its wood in ribs; it banded broadly in the deep face of its middle years and tightly at its margin at the end; and it finished its life as a face some twenty-seven inches through and thirty-three and a half across the flutes, which is a substantial tree for a strip of ground between a residence and its pavement.
 
-The slowing at the end is the one dynamic fact the photographs actively support, and its causes can be listed but not apportioned: the tree aged, as trees do; its root zone was the restricted, compacted volume an urban planting lives in; and its final fifteen years, if it lived them on the schedule the felling date suggests, included the severe Kansas droughts of 2011–2012 and of the early 2020s, years the National Centers for Environmental Information and the U.S. Drought Monitor record among the worst in the state's measured history [15], with Ellis County under a declared drought emergency in the autumn of 2022 (Kansas Executive Order 22-08) [16].
+The slowing at the end is the one dynamic fact the photographs actively support, and its causes can be listed but not apportioned: the tree aged, as trees do; its root zone was the restricted, compacted volume an urban planting lives in; and its final fifteen years, if it lived them on the schedule the felling date suggests, included the severe Kansas droughts of 2011–2012 and of the early 2020s. The National Centers for Environmental Information and the U.S. Drought Monitor record those years among the worst in the state's measured history [15], with Ellis County under a declared drought emergency in the autumn of 2022 (Kansas Executive Order 22-08) [16].
 
 Drought is therefore a reasonable suspect in the slowing. It is not a convicted one — the photographs cannot divide the credit among drought, age, and the root zone, and the suspect carries a further complication the record cannot resolve: a landscape tree that was watered through the dry years would not carry those years in its rings the way an unwatered tree does, and this tree's watering history is unknown.
 
