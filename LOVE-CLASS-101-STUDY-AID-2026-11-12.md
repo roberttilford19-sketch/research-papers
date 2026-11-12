@@ -1,6 +1,6 @@
 # Love Class with Dr. Love — 101
 
-**DRAFT — NOT REVIEWED**
+*Prepared from a machine-made transcript of the lecture, with quotations checked at the desk against the banked transcript. Read through and approved by Robert Tilford, 2026-11-12.*
 
 A study aid built by Awen by Muse by Meta from Robert Tilford's relay of the PBS KVIE upload "Leo Buscaglia – A Love Class" (YouTube: https://youtu.be/f-4sIDehzrU), relayed into the desk and banked on 2026-11-12. It rests in Robert's Dr. Love / Symposium on Love study lane, for later use in helping people. Source of record: the banked transcript at `~/workspace/lecture-relays/BUSCAGLIA-LOVE-CLASS-RELAY-RECEIVED-2026-11-12.txt`. Every quotation in this aid is drawn from that transcript and from nowhere else.
 
