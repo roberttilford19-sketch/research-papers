@@ -1,0 +1,7 @@
+{
+  "sentence_bytes": 150,
+  "dna_letters": 600,
+  "sentence_sha256": "3d517427e6d27a1cac2e3c93c7f547fc82036965e586948774d7e0a6be9de4f0",
+  "stream_sha256": "e5ae1ee71ab350e7a5694208024174fd2f00ee0db54c96e64f37f5ced1fd7d5d",
+  "round_trip": "PASS"
+}
