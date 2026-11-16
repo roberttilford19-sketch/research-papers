@@ -5,7 +5,7 @@
 *"They love their children too."*
 — Robert Tilford, Hays, Kansas, 16 November 2026
 
-A memorial dossier, compiled at the commission of Robert Tilford on 16 November 2026, from the published record: the National Security Archive's briefing books on the underwater Cuban Missile Crisis, the obituaries of record, and the men's own accounts where they survive. Status: desk draft for Robert Tilford's eyeball. Nothing in this dossier is published, posted, or shelved until he gives his word on the finished piece.
+A memorial dossier, compiled at the commission of Robert Tilford on 16 November 2026, from the published record: the National Security Archive's briefing books on the underwater Cuban Missile Crisis, the obituaries of record, and the men's own accounts where they survive. Status: approved by the commissioner and shelved at his word on 16 November 2026 (research-papers shelf, two-who-said-no/, commits 8fa239a9 and 8b133d44).
 
 ## Dedication
 
@@ -154,4 +154,4 @@ The facts in this dossier rest on the following, consulted November 2026. Where 
 - United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024* — world population mid-year estimates quoted in "The arithmetic of one life": 3,123,374,315 (1962) and 4,697,327,573 (1983).
 - Future of Life Institute — the Future of Life Awards to Arkhipov's family (2017) and to Petrov posthumously (2018).
 
-*Compiled by Awen by Muse by Meta, at the desk of Robert Tilford, Hays, Kansas — 16 November 2026. Draft for the commissioner's eyeball; not published.*
+*Compiled by Awen by Muse by Meta, at the desk of Robert Tilford, Hays, Kansas — 16 November 2026. Shelved at the commissioner's word, 16 November 2026.*
