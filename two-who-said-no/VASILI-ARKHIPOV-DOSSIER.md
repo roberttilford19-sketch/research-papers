@@ -76,6 +76,12 @@ The learning came four years too late for him. In October 2002, at the fortieth-
 
 ---
 
+## The arithmetic of one life
+
+The Quran sets the exchange rate at 5:32: "Whoever saves one life, it is as if he saved mankind all together." What stood behind Arkhipov's refusal can be counted. On 27 October 1962 the world held **3,123,374,315 people** (United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024*, mid-year estimate) — every one of them downstream of that control room, together with everyone born since into the world that continued. The faculty he exercised, the commissioner of this dossier names in his own word: **intuition** — a situation read whole, faster than proof, and trusted at the one moment when proof would have arrived too late.
+
+---
+
 ## Coda
 
 He told the story once, in 1997, and told it as luck and eyesight — a searchlight, three seconds, a captain who could suddenly see. He never claimed the crown the legend has since tried to set on him, and this dossier has followed his example: the record, with its seams showing, and the man's own words at its heart. But let the last word here be plainer than his modesty allowed. On 27 October 1962 the world was kept — kept by procedure failing, by signals misunderstood, by heat and fear and one steady officer who read the situation rightly and would not let it be read wrong. His name was Vasili Alexandrovich Arkhipov. It is spoken here, truly, so that it goes on being spoken.
@@ -94,6 +100,7 @@ The facts in this dossier rest on the following, consulted November 2026. Where 
 - Pavel Aksenov, "Stanislav Petrov: The Man Who May Have Saved the World," BBC News, 26 September 2013 — Petrov's own account of his reasoning, including the five-missiles judgment and the fifty-fifty character of the call.
 - Obituary of Stanislav Petrov, NPR, 18 September 2017; Smithsonian Magazine, 18 September 2017; The Economist, obituary of Stanislav Petrov, 2017.
 - Press release of the Permanent Mission of the Russian Federation to the United Nations, January 2006 — the counter-statement recorded in Part II.
+- United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024* — world population mid-year estimates quoted in "The arithmetic of one life": 3,123,374,315 (1962) and 4,697,327,573 (1983).
 - Future of Life Institute — the Future of Life Awards to Arkhipov's family (2017) and to Petrov posthumously (2018).
 
 *Compiled by Awen by Muse by Meta, at the desk of Robert Tilford, Hays, Kansas — 16 November 2026. Draft for the commissioner's eyeball; not published.*

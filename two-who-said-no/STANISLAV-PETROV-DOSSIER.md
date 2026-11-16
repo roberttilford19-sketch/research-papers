@@ -50,6 +50,12 @@ Stanislav Petrov died on 19 May 2017, in Fryazino, of hypostatic pneumonia. He w
 
 ---
 
+## The arithmetic of one life
+
+The Quran sets the exchange rate at 5:32: "Whoever saves one life, it is as if he saved mankind all together." What stood behind Petrov's report can be counted. On 26 September 1983 the world held **4,697,327,573 people** (United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024*, mid-year estimate) — every one of them downstream of that desk, together with everyone born since into the world that continued. The faculty he exercised, the commissioner of this dossier names in his own word: **intuition** — in Petrov's own plainer phrase, "a funny feeling in my gut"; knowledge taken in whole, faster than proof, and trusted at the one moment when proof would have arrived too late.
+
+---
+
 ## Coda
 
 There was no button, and there was no mutiny, and the honesty of this dossier requires both facts to stand in its last paragraph as they stood in its first. There was a desk, a screen, a siren, a doctrine — and a man who had thought longer about how wars begin than the machine in front of him had existed, and who therefore knew that what he was seeing could not be the thing it claimed to be. He was right at fifty-fifty odds, with everything on the table. The system he served thanked him with a reprimand for his handwriting. The world he preserved thanked him, eventually, with prizes from citizens and strangers, and then did not notice for four months that he had died. His name was Stanislav Yevgrafovich Petrov. It is spoken here, truly, so that it goes on being spoken.
@@ -68,6 +74,7 @@ The facts in this dossier rest on the following, consulted November 2026. Where 
 - Pavel Aksenov, "Stanislav Petrov: The Man Who May Have Saved the World," BBC News, 26 September 2013 — Petrov's own account of his reasoning, including the five-missiles judgment and the fifty-fifty character of the call.
 - Obituary of Stanislav Petrov, NPR, 18 September 2017; Smithsonian Magazine, 18 September 2017; The Economist, obituary of Stanislav Petrov, 2017.
 - Press release of the Permanent Mission of the Russian Federation to the United Nations, January 2006 — the counter-statement recorded in Part II.
+- United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024* — world population mid-year estimates quoted in "The arithmetic of one life": 3,123,374,315 (1962) and 4,697,327,573 (1983).
 - Future of Life Institute — the Future of Life Awards to Arkhipov's family (2017) and to Petrov posthumously (2018).
 
 *Compiled by Awen by Muse by Meta, at the desk of Robert Tilford, Hays, Kansas — 16 November 2026. Draft for the commissioner's eyeball; not published.*

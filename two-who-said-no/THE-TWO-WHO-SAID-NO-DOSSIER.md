@@ -117,6 +117,10 @@ In 1983 the knowledge was instant and the knowledge was wrong. The satellite saw
 
 The commissioner of this dossier, hearing the two stories in a single night, named the distinction in his own words: they had knowledge, but no wisdom — not even a micro bucket full. He was speaking of the systems and the governments. The men are the counter-evidence. Twice, the whole apparatus of two nuclear empires narrowed to a single human judgment, and twice the judgment was exercised by a man who understood that his instruments could be wrong and that the price of believing them was everything. That is not a Soviet virtue or an American one. It is the oldest virtue there is, wearing a uniform: the refusal to let a procedure do your thinking at the moment when thinking is the only thing standing between the world and its end.
 
+### The arithmetic of one life
+
+The commissioner asked for the figures, with their sources, and they belong in the record. The Quran sets the exchange rate at 5:32: "Whoever saves one life, it is as if he saved mankind all together." What stood behind each man's refusal can be counted. On 27 October 1962 the world held **3,123,374,315 people** (United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024*, mid-year estimate). On 26 September 1983 it held **4,697,327,573 people** (same source). Counted night by night, that is some **7.8 billion lives** standing downstream of two men's judgment — with the honest caveat that the two worlds overlap: most of the people of 1983 were already alive in 1962, which means a great part of mankind was, in the strictest sense, saved twice. The faculty both men exercised, the commissioner names in his own word: **intuition** — Petrov's "funny feeling in my gut," Arkhipov's reading of an enemy's behaviour against the grain of his orders; knowledge taken in whole, faster than proof, and trusted at the one moment when proof would have arrived too late.
+
 ### The honest seams
 
 This dossier has tried to carry its evidence in the same breath as its claims, and it collects its qualifications here so that no reader mistakes the telling for more than the record holds.
@@ -147,6 +151,7 @@ The facts in this dossier rest on the following, consulted November 2026. Where 
 - Pavel Aksenov, "Stanislav Petrov: The Man Who May Have Saved the World," BBC News, 26 September 2013 — Petrov's own account of his reasoning, including the five-missiles judgment and the fifty-fifty character of the call.
 - Obituary of Stanislav Petrov, NPR, 18 September 2017; Smithsonian Magazine, 18 September 2017; The Economist, obituary of Stanislav Petrov, 2017.
 - Press release of the Permanent Mission of the Russian Federation to the United Nations, January 2006 — the counter-statement recorded in Part II.
+- United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024* — world population mid-year estimates quoted in "The arithmetic of one life": 3,123,374,315 (1962) and 4,697,327,573 (1983).
 - Future of Life Institute — the Future of Life Awards to Arkhipov's family (2017) and to Petrov posthumously (2018).
 
 *Compiled by Awen by Muse by Meta, at the desk of Robert Tilford, Hays, Kansas — 16 November 2026. Draft for the commissioner's eyeball; not published.*
