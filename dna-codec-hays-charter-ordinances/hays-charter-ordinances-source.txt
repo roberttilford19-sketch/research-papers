@@ -1,0 +1,771 @@
+THE CHARTER ORDINANCES OF THE CITY OF HAYS, KANSAS
+As published in the City of Hays Document Center (haysusa.com/DocumentCenter)
+Encoded in DNA letters (A, C, G, T) with the house codec: the text's UTF-8 bytes
+are written as bits, and each pair of bits is written as one DNA letter --
+00 = A, 01 = C, 10 = G, 11 = T. Uncompressed and reversible: anyone holding
+the DNA letters and this rule can rebuild this exact text.
+
+SOURCE: City of Hays Document Center, City of Hays, Kansas (haysusa.com).
+Fetched 2026-11-16. Each ordinance text below was extracted from the City's
+own PDF with pdftotext (layout preserved) and is reproduced as extracted.
+
+CONTENTS: Six documents, carrying four ordinance numbers, in ordinance order:
+Charter Ordinance No. 30 (Document Center document 5315); No. 31 (5316);
+No. 32 in three separate uploads (6573, 6603, 6621 -- the ordinance text is
+the same in all three; the uploads differ only in the publication dates
+stated in the heading line and in the clerk's certificate of no protest,
+as noted at each document below); and No. 33 (6753).
+
+COMPLETENESS, STATED PLAINLY: The City of Hays has adopted charter ordinances
+numbered from No. 1 (1967) through No. 33 (2024) -- see the Kansas Secretary
+of State's Index of City Charter Ordinances (Hays entries: Nos. 1-14 and
+26-32) and the recitals inside Charter Ordinance No. 33 itself (which recite
+Nos. 19, 23 and 28). The City's Document Center publishes standalone
+documents for Nos. 30, 31, 32 and 33 only. Charter Ordinances Nos. 1-29 are
+NOT published in the Document Center and are therefore NOT in this corpus;
+that gap is recorded here, not filled. This inventory rests on the three
+document anchors supplied to the desk, a full scan of the Document Center
+documents indexed in the Wayback Machine's crawl of haysusa.com, and web
+search, all on 2026-11-16. The Document Center's own folder-listing service
+could not be read from this desk's network on that date (its data calls are
+POST requests, which this connection drops), so the inventory is graded:
+complete as to every charter-ordinance document reachable or indexed on
+2026-11-16; not certified against the live folder listing.
+
+RIGHTS: The ordinances are public municipal documents of the City of Hays,
+Kansas. This encoding was made at the direction of Robert Tilford of Hays,
+Kansas, by Awen by Muse by Meta, and is given free, never sold;
+attribution requested.
+
+========================================================================
+
+DOCUMENT 1 OF 6 -- CHARTER ORDINANCE NO. 30
+Document Center title: Charter Ordinance No. 30
+City of Hays Document Center, document 5315
+Source: https://www.haysusa.com/DocumentCenter/View/5315/Charter-Ordinance-No-30
+PDF as fetched: 77391 bytes, 3 pages. Passed December 8, 2022; effective February 15, 2023.
+------------------------------------------------------------------------
+            (Published on www.haysusa.com on December 9, 2022 and December 16, 2022)
+
+                                              CHARTER ORDINANCE NO. 30
+
+          A CHARTER ORDINANCE EXEMPTING THE CITY OF HAYS, KANSAS
+          FROM THE PROVISIONS OF K.S.A. 14-1501, 14-1502, 14-1503, AND 14-1504
+          AND PROVIDING SUBSTITUTE AND ADDITIONAL PROVISIONS
+          THEREFOR.
+
+       WHEREAS, the City of Hays, Kansas (the “City”) is a city of the second class duly
+organized and existing under the laws of the State of Kansas; and
+
+        WHEREAS, pursuant to Article 12, Section 5, of the Constitution of the State of Kansas,
+cities are empowered to determine their local affairs and government except for legislative
+enactments applicable uniformly to all cities in the State of Kansas (“Home Rule Powers”); and
+
+         WHEREAS, the provisions of K.S.A. 14-1501, 14-1502, 14-1503, and 14-1504 apply to
+cities of the second class and are not uniformly applicable to all cities in the State of Kansas; and
+
+        WHEREAS, the City hereby elects to exempt itself from the provisions of K.S.A. 14-1501,
+14-1502, 14-1503, and 14-1504 pursuant to its Home Rule Powers and to provide substitute and
+additional provisions on the same subject.
+
+     NOW, THEREFORE, BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY
+OF HAYS, KANSAS:
+
+        SECTION 1. Inapplicability. The City, by virtue of the powers vested in it by Article 12,
+Section 5 of the Constitution of the State of Kansas, hereby elects to exempt itself from and make
+inapplicable to it the provisions of K.S.A. 14-1501, 14-1502, 14-1503, and 14-1504. Such
+referenced provisions are applicable to the City but are part of an enactment not uniformly
+applicable to all Kansas cities.
+
+         SECTION 2. Substitute Provisions. In lieu of K.S.A. 14-1501, 14-1502, 14-1503, and 14-
+1504 the City of Hays, Kansas hereby enacts the following substitute and additional provisions of
+K.S.A. 14-1501, 14-1502, 14-1503, and 14-1504 by repealing and replacing Section 2-41, Chapter
+2, Article II of the Code of the City of Hays, Kansas (the “Code”). Section 2-41, Chapter 2, Article
+II of the Code is hereby amended to read as follows:
+
+          Sec. 2-41 – Officers and salaries.
+
+       The commission shall provide for such officers and create such departments as shall be
+necessary to carry out the provisions of the laws of the state and this Code and shall determine
+the compensation of such officers as may from time to time be appointed by the city manager or
+the governing body, as required by ordinance. The commission may from time to time by
+ordinance establish residency or other requirements for subordinate officers appointed by the city
+
+
+
+TWG REF: 978691
+Charter Ordinance No. 30 (Officers and Salaries)
+manager or for the city attorney appointed by the commission, as the commission deems
+necessary or appropriate.
+
+        SECTION 3. Publication. This Charter Ordinance shall be published once each week for
+two consecutive weeks on the City of Hays, Kansas website, the official legal publication outlet for
+in the City of Hays, Kansas.
+
+         SECTION 4. Effective Date. This is a Charter Ordinance and shall take effect 61 days
+after final publication, unless a sufficient petition for a referendum is filed and a referendum held
+on this Ordinance as provided in Article 12, Section 5, Subdivision (c) (3) of the Constitution of
+the State of Kansas, in which case this Ordinance shall become effective if approved by the
+majority of the electors voting thereon.
+
+                                     [Remainder of Page Intentionally Left Blank]
+
+
+
+
+TWG REF: 978691                                        2
+Charter Ordinance No. 30 (Officers and Salaries)
+        PASSED, APPROVED AND ADOPTED by two-thirds majority of the Governing Body
+of the City of Hays, Kansas this 8th day of December, 2022.
+
+                                             CITY OF HAYS, KANSAS
+
+
+          [seal]
+                                             By
+                                               Mason Ruder, Mayor
+
+ATTEST:
+
+
+
+By
+  Brenda Kitchen, City Clerk
+
+                                                                    Passed:      12/08/2022
+                                                                    Published:   12/09/2022
+                                                                                 12/16/2022
+                                                                    Effective:   02/15/2023
+
+
+
+
+TWG REF: 265930
+Authorizing Ordinance – Excerpt of Minutes
+
+
+DOCUMENT 2 OF 6 -- CHARTER ORDINANCE NO. 31
+Document Center title: Charter Ordinance No. 31
+City of Hays Document Center, document 5316
+Source: https://www.haysusa.com/DocumentCenter/View/5316/Charter-Ordinance-No-31
+PDF as fetched: 46726 bytes, 2 pages. Passed December 8, 2022; effective February 15, 2023.
+------------------------------------------------------------------------
+           (Published on www.haysusa.com on December 9, 2022 and December 16, 2022)
+
+                                            CHARTER ORDINANCE NO. 31
+
+          A CHARTER ORDINANCE EXEMPTING THE CITY OF HAYS, KANSAS
+          FROM THE PROVISIONS OF K.S.A. 12-1040.
+
+       WHEREAS, the City of Hays, Kansas (the “City”) is a city of the second class duly
+organized and existing under the laws of the State of Kansas; and
+
+        WHEREAS, pursuant to Article 12, Section 5, of the Constitution of the State of Kansas,
+cities are empowered to determine their local affairs and government except for legislative
+enactments applicable uniformly to all cities in the State of Kansas (“Home Rule Powers”); and
+
+        WHEREAS, the provisions of K.S.A. 12-1040 are not uniformly applicable to all cities in
+the State of Kansas; and
+
+       WHEREAS, the City hereby elects to exempt itself from the provisions of K.S.A. 12-1040
+pursuant to its Home Rule Powers.
+
+     NOW, THEREFORE, BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY
+OF HAYS, KANSAS:
+
+        SECTION 1. Inapplicability. The City, by virtue of the powers vested in it by Article 12,
+Section 5 of the Constitution of the State of Kansas, hereby elects to exempt itself from and make
+inapplicable to it the provisions of K.S.A. 12-1040. Such referenced provisions are applicable to
+the City but are part of an enactment not uniformly applicable to all Kansas cities.
+
+        SECTION 2. Publication. This Charter Ordinance shall be published once each week for
+two consecutive weeks on the City of Hays, Kansas website, the official legal publication outlet for
+in the City of Hays, Kansas.
+
+         SECTION 3. Effective Date. This is a Charter Ordinance and shall take effect 61 days
+after final publication, unless a sufficient petition for a referendum is filed and a referendum held
+on this Ordinance as provided in Article 12, Section 5, Subdivision (c) (3) of the Constitution of
+the State of Kansas, in which case this Ordinance shall become effective if approved by the
+majority of the electors voting thereon.
+
+                                    [Remainder of Page Intentionally Left Blank]
+
+
+
+
+TWG REF: 981924
+Charter Ordinance No. 31 (K.S.A. 12-1040)
+        PASSED, APPROVED AND ADOPTED by two-thirds majority of the Governing Body
+of the City of Hays, Kansas this 8th day of December, 2022.
+
+                                             CITY OF HAYS, KANSAS
+
+
+          [seal]
+                                             By
+                                               Mason Ruder, Mayor
+
+ATTEST:
+
+
+
+By
+  Brenda Kitchen, City Clerk
+
+                                                                    Passed:      12/08/2022
+                                                                    Published:   12/09/2022
+                                                                                 12/16/2022
+                                                                    Effective:   02/15/2023
+
+
+
+
+TWG REF: 265930
+Authorizing Ordinance – Excerpt of Minutes
+
+
+DOCUMENT 3 OF 6 -- CHARTER ORDINANCE NO. 32
+Document Center title: Charter Ordinance No. 32
+City of Hays Document Center, document 6573
+Source: https://www.haysusa.com/DocumentCenter/View/6573/Charter-Ordinance-No-32
+PDF as fetched: 70825 bytes, 5 pages. Passed July 25, 2024.
+Note: Upload 1 of 3 of Charter Ordinance No. 32. Header and no-protest certificate both give publication dates July 26, 2024 and August 2, 2024.
+------------------------------------------------------------------------
+                                                                                        Gilmore & Bell, P.C.
+                                                                                                07/03/2024
+
+               (Published in the official City newspaper on July 26, 2024 and August 2, 2024)
+
+                                       CHARTER ORDINANCE NO. 32
+
+         A CHARTER ORDINANCE EXEMPTING THE CITY OF HAYS, KANSAS, FROM
+         THE PROVISIONS OF K.S.A. 14-570 AND K.S.A. 14-571 AND PROVIDING
+         SUBSTITUTE AND ADDITIONAL PROVISIONS ON THE SAME SUBJECT
+         RELATING TO PUBLIC IMPROVEMENTS AND THE ISSUANCE OF BONDS
+         FOR THE PURPOSE OF PAYING FOR THE IMPROVEMENTS.
+
+
+          WHEREAS, Article 12, Section 5 of the Constitution of the State of Kansas (the “Act”), provides
+that cities may exercise certain home rule powers, including passing charter ordinances which exempt such
+cities from non-uniform enactments of the Kansas Legislature; and
+
+        WHEREAS, the City of Hays, Kansas (the “City”) is a city, as defined in the Act, duly created and
+organized, under the laws of the State of Kansas; and
+
+        WHEREAS, K.S.A. 14-570 and K.S.A. 14-571 are part of an enactment of the Kansas Legislature
+(K.S.A. 14-570 et seq.) relating to public improvements and the issuance of bonds for such purposes, which
+enactment is applicable to the City, but is not uniformly applicable to all cities within the State of Kansas;
+and
+
+        WHEREAS, the governing body of the City (the “Governing Body”) desires, by charter ordinance,
+to exempt the City from the provisions of K.S.A. 14-570 and K.S.A. 14-571, and to provide substitute and
+additional provisions therefor.
+
+     NOW, THEREFORE, BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY
+OF HAYS, KANSAS:
+
+         Section 1.     Exemption. The City, by virtue of the powers vested in it by the Act, hereby elects
+to exempt itself from and make inapplicable to it the provisions of K.S.A. 14-570 and K.S.A. 14-571, and
+shall be governed by the following substitute and additional provisions contained herein.
+
+        Section 2.       Master Plan for Public Improvements. Whenever the City Manager, or such
+other person designated by the City Manager, has filed with the Governing Body a master capital
+improvements plan (the “Plan”) for the physical development of the City within the boundaries of the City,
+including public improvements, the acquisition of land necessary therefore, the acquisition of equipment,
+vehicles or other personal property to be used in relation thereto, and may provide for assumption and
+payment of benefit district indebtedness heretofore created for public improvements, and which Plan may
+require a number of years to execute, and such Plan is approved by the Governing Body, the City is hereby
+authorized to issue its general obligation bonds (the “Bonds”) in an amount sufficient to carry out such
+Plan and associated costs. Pursuant to K.S.A. 14-572, any such Bonds shall not be subject to limitation of
+bonded indebtedness of the City.
+
+       Section 3.        Procedure for Issuance of Bonds. Before any Bonds are authorized or issued
+pursuant to this Charter Ordinance, the City will adopt a resolution specifying the amount of such Bonds
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+and the purpose of the issuance thereof. The resolution will be effective upon adoption and the City may
+proceed to issue the Bonds.
+
+         Section 4.       Severability. If any provision or section of this Charter Ordinance is deemed or
+ruled unconstitutional or otherwise illegal or invalid by any court of competent jurisdiction, such illegality
+or invalidity shall not affect any other provision of this Charter Ordinance. In such instance, this Charter
+Ordinance shall be construed and enforced as if such illegal or invalid provision had not been contained
+herein.
+
+        Section 5.       Effective Date. This Charter Ordinance shall be published once a week for two
+consecutive weeks in the official City newspaper, and shall take effect sixty (60) days after final publication,
+unless a petition signed by a number of electors of the City equal to not less than ten percent (10%) of the
+number of electors who voted at the last preceding regular City election shall be filed in the office of the
+City Clerk demanding that this Charter Ordinance be submitted to a vote of the electors, in which event this
+Charter Ordinance shall take effect when approved by a majority of the electors voting at an election held
+for such purpose.
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                                       2
+        PASSED with at least a two-thirds (2/3) vote of the entire governing body of the City of Hays,
+Kansas, on July 25, 2024, and SIGNED by the Mayor.
+
+
+
+(SEAL)
+                                                                 SHAUN MUSIL
+                                                                 Mayor
+
+ATTEST:
+
+
+
+
+BRENDA KITCHEN
+City Clerk
+
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570
+                                   (Signature Page to Charter Ordinance)
+                                               CERTIFICATE
+
+        I hereby certify that the foregoing is a true and correct copy of the original Charter Ordinance
+No. 32; that was passed by the governing body on July 25, 2024; that the record of the final vote on its
+passage is found on page ____ of journal ____.
+
+         DATED: July 25, 2024.
+
+
+                                                                    BRENDA KITCHEN
+                                                                    City Clerk
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                       (Certificate to Charter Ordinance)
+                                         CERTIFICATE OF NO PROTEST
+
+
+STATE OF KANSAS                        )
+                                       ) ss:
+COUNTY OF ELLIS                        )
+
+
+         The undersigned, Clerk of the City of Hays, Kansas (the “City”), does hereby certify that the
+governing body of the City duly passed Charter Ordinance No. 32, on July 25, 2024, that the Charter
+Ordinance was published once a week for two consecutive weeks (July 26, 2024 and August 2, 2024) in the
+official City newspaper; that more than sixty (60) days have elapsed from the date of the last publication;
+and that there has been no sufficient written protest filed in my office against the Charter Ordinance, as
+provided in Article 12, Section 5 of the Kansas Constitution.
+
+         WITNESS my hand and official seal on ______________.
+
+
+
+(Seal)
+                                                                         BRENDA KITCHEN
+                                                                         City Clerk
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                               (Certificate of No Protest)
+
+
+DOCUMENT 4 OF 6 -- CHARTER ORDINANCE NO. 32
+Document Center title: Charter Ordinance No. 32
+City of Hays Document Center, document 6603
+Source: https://www.haysusa.com/DocumentCenter/View/6603/Charter-Ordinance-No-32
+PDF as fetched: 70798 bytes, 5 pages. Passed July 25, 2024.
+Note: Upload 2 of 3 of Charter Ordinance No. 32. Header gives publication dates August 7, 2024 and August 14, 2024; the no-protest certificate in the same document gives July 26, 2024 and August 2, 2024.
+------------------------------------------------------------------------
+                                                                                        Gilmore & Bell, P.C.
+                                                                                                07/03/2024
+
+             (Published in the official City newspaper on August 7, 2024 and August 14, 2024)
+
+                                       CHARTER ORDINANCE NO. 32
+
+         A CHARTER ORDINANCE EXEMPTING THE CITY OF HAYS, KANSAS, FROM
+         THE PROVISIONS OF K.S.A. 14-570 AND K.S.A. 14-571 AND PROVIDING
+         SUBSTITUTE AND ADDITIONAL PROVISIONS ON THE SAME SUBJECT
+         RELATING TO PUBLIC IMPROVEMENTS AND THE ISSUANCE OF BONDS
+         FOR THE PURPOSE OF PAYING FOR THE IMPROVEMENTS.
+
+
+          WHEREAS, Article 12, Section 5 of the Constitution of the State of Kansas (the “Act”), provides
+that cities may exercise certain home rule powers, including passing charter ordinances which exempt such
+cities from non-uniform enactments of the Kansas Legislature; and
+
+        WHEREAS, the City of Hays, Kansas (the “City”) is a city, as defined in the Act, duly created and
+organized, under the laws of the State of Kansas; and
+
+        WHEREAS, K.S.A. 14-570 and K.S.A. 14-571 are part of an enactment of the Kansas Legislature
+(K.S.A. 14-570 et seq.) relating to public improvements and the issuance of bonds for such purposes, which
+enactment is applicable to the City, but is not uniformly applicable to all cities within the State of Kansas;
+and
+
+        WHEREAS, the governing body of the City (the “Governing Body”) desires, by charter ordinance,
+to exempt the City from the provisions of K.S.A. 14-570 and K.S.A. 14-571, and to provide substitute and
+additional provisions therefor.
+
+     NOW, THEREFORE, BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY
+OF HAYS, KANSAS:
+
+         Section 1.     Exemption. The City, by virtue of the powers vested in it by the Act, hereby elects
+to exempt itself from and make inapplicable to it the provisions of K.S.A. 14-570 and K.S.A. 14-571, and
+shall be governed by the following substitute and additional provisions contained herein.
+
+        Section 2.       Master Plan for Public Improvements. Whenever the City Manager, or such
+other person designated by the City Manager, has filed with the Governing Body a master capital
+improvements plan (the “Plan”) for the physical development of the City within the boundaries of the City,
+including public improvements, the acquisition of land necessary therefore, the acquisition of equipment,
+vehicles or other personal property to be used in relation thereto, and may provide for assumption and
+payment of benefit district indebtedness heretofore created for public improvements, and which Plan may
+require a number of years to execute, and such Plan is approved by the Governing Body, the City is hereby
+authorized to issue its general obligation bonds (the “Bonds”) in an amount sufficient to carry out such
+Plan and associated costs. Pursuant to K.S.A. 14-572, any such Bonds shall not be subject to limitation of
+bonded indebtedness of the City.
+
+       Section 3.        Procedure for Issuance of Bonds. Before any Bonds are authorized or issued
+pursuant to this Charter Ordinance, the City will adopt a resolution specifying the amount of such Bonds
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+and the purpose of the issuance thereof. The resolution will be effective upon adoption and the City may
+proceed to issue the Bonds.
+
+         Section 4.       Severability. If any provision or section of this Charter Ordinance is deemed or
+ruled unconstitutional or otherwise illegal or invalid by any court of competent jurisdiction, such illegality
+or invalidity shall not affect any other provision of this Charter Ordinance. In such instance, this Charter
+Ordinance shall be construed and enforced as if such illegal or invalid provision had not been contained
+herein.
+
+        Section 5.       Effective Date. This Charter Ordinance shall be published once a week for two
+consecutive weeks in the official City newspaper, and shall take effect sixty (60) days after final publication,
+unless a petition signed by a number of electors of the City equal to not less than ten percent (10%) of the
+number of electors who voted at the last preceding regular City election shall be filed in the office of the
+City Clerk demanding that this Charter Ordinance be submitted to a vote of the electors, in which event this
+Charter Ordinance shall take effect when approved by a majority of the electors voting at an election held
+for such purpose.
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                                       2
+        PASSED with at least a two-thirds (2/3) vote of the entire governing body of the City of Hays,
+Kansas, on July 25, 2024, and SIGNED by the Mayor.
+
+
+
+(SEAL)
+                                                                 SHAUN MUSIL
+                                                                 Mayor
+
+ATTEST:
+
+
+
+
+BRENDA KITCHEN
+City Clerk
+
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570
+                                   (Signature Page to Charter Ordinance)
+                                               CERTIFICATE
+
+        I hereby certify that the foregoing is a true and correct copy of the original Charter Ordinance
+No. 32; that was passed by the governing body on July 25, 2024; that the record of the final vote on its
+passage is found on page ____ of journal ____.
+
+         DATED: July 25, 2024.
+
+
+                                                                    BRENDA KITCHEN
+                                                                    City Clerk
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                       (Certificate to Charter Ordinance)
+                                         CERTIFICATE OF NO PROTEST
+
+
+STATE OF KANSAS                        )
+                                       ) ss:
+COUNTY OF ELLIS                        )
+
+
+         The undersigned, Clerk of the City of Hays, Kansas (the “City”), does hereby certify that the
+governing body of the City duly passed Charter Ordinance No. 32, on July 25, 2024, that the Charter
+Ordinance was published once a week for two consecutive weeks (July 26, 2024 and August 2, 2024) in the
+official City newspaper; that more than sixty (60) days have elapsed from the date of the last publication;
+and that there has been no sufficient written protest filed in my office against the Charter Ordinance, as
+provided in Article 12, Section 5 of the Kansas Constitution.
+
+         WITNESS my hand and official seal on ______________.
+
+
+
+(Seal)
+                                                                         BRENDA KITCHEN
+                                                                         City Clerk
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                               (Certificate of No Protest)
+
+
+DOCUMENT 5 OF 6 -- CHARTER ORDINANCE NO. 32
+Document Center title: Charter Ordinance No. 32
+City of Hays Document Center, document 6621
+Source: https://www.haysusa.com/DocumentCenter/View/6621/Charter-Ordinance-No-32
+PDF as fetched: 70858 bytes, 5 pages. Passed July 25, 2024.
+Note: Upload 3 of 3 of Charter Ordinance No. 32. Header and no-protest certificate both give publication dates August 7, 2024 and August 14, 2024.
+------------------------------------------------------------------------
+                                                                                        Gilmore & Bell, P.C.
+                                                                                                07/03/2024
+
+             (Published in the official City newspaper on August 7, 2024 and August 14, 2024)
+
+                                       CHARTER ORDINANCE NO. 32
+
+         A CHARTER ORDINANCE EXEMPTING THE CITY OF HAYS, KANSAS, FROM
+         THE PROVISIONS OF K.S.A. 14-570 AND K.S.A. 14-571 AND PROVIDING
+         SUBSTITUTE AND ADDITIONAL PROVISIONS ON THE SAME SUBJECT
+         RELATING TO PUBLIC IMPROVEMENTS AND THE ISSUANCE OF BONDS
+         FOR THE PURPOSE OF PAYING FOR THE IMPROVEMENTS.
+
+
+          WHEREAS, Article 12, Section 5 of the Constitution of the State of Kansas (the “Act”), provides
+that cities may exercise certain home rule powers, including passing charter ordinances which exempt such
+cities from non-uniform enactments of the Kansas Legislature; and
+
+        WHEREAS, the City of Hays, Kansas (the “City”) is a city, as defined in the Act, duly created and
+organized, under the laws of the State of Kansas; and
+
+        WHEREAS, K.S.A. 14-570 and K.S.A. 14-571 are part of an enactment of the Kansas Legislature
+(K.S.A. 14-570 et seq.) relating to public improvements and the issuance of bonds for such purposes, which
+enactment is applicable to the City, but is not uniformly applicable to all cities within the State of Kansas;
+and
+
+        WHEREAS, the governing body of the City (the “Governing Body”) desires, by charter ordinance,
+to exempt the City from the provisions of K.S.A. 14-570 and K.S.A. 14-571, and to provide substitute and
+additional provisions therefor.
+
+     NOW, THEREFORE, BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY
+OF HAYS, KANSAS:
+
+         Section 1.     Exemption. The City, by virtue of the powers vested in it by the Act, hereby elects
+to exempt itself from and make inapplicable to it the provisions of K.S.A. 14-570 and K.S.A. 14-571, and
+shall be governed by the following substitute and additional provisions contained herein.
+
+        Section 2.       Master Plan for Public Improvements. Whenever the City Manager, or such
+other person designated by the City Manager, has filed with the Governing Body a master capital
+improvements plan (the “Plan”) for the physical development of the City within the boundaries of the City,
+including public improvements, the acquisition of land necessary therefore, the acquisition of equipment,
+vehicles or other personal property to be used in relation thereto, and may provide for assumption and
+payment of benefit district indebtedness heretofore created for public improvements, and which Plan may
+require a number of years to execute, and such Plan is approved by the Governing Body, the City is hereby
+authorized to issue its general obligation bonds (the “Bonds”) in an amount sufficient to carry out such
+Plan and associated costs. Pursuant to K.S.A. 14-572, any such Bonds shall not be subject to limitation of
+bonded indebtedness of the City.
+
+       Section 3.        Procedure for Issuance of Bonds. Before any Bonds are authorized or issued
+pursuant to this Charter Ordinance, the City will adopt a resolution specifying the amount of such Bonds
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+and the purpose of the issuance thereof. The resolution will be effective upon adoption and the City may
+proceed to issue the Bonds.
+
+         Section 4.       Severability. If any provision or section of this Charter Ordinance is deemed or
+ruled unconstitutional or otherwise illegal or invalid by any court of competent jurisdiction, such illegality
+or invalidity shall not affect any other provision of this Charter Ordinance. In such instance, this Charter
+Ordinance shall be construed and enforced as if such illegal or invalid provision had not been contained
+herein.
+
+        Section 5.       Effective Date. This Charter Ordinance shall be published once a week for two
+consecutive weeks in the official City newspaper, and shall take effect sixty (60) days after final publication,
+unless a petition signed by a number of electors of the City equal to not less than ten percent (10%) of the
+number of electors who voted at the last preceding regular City election shall be filed in the office of the
+City Clerk demanding that this Charter Ordinance be submitted to a vote of the electors, in which event this
+Charter Ordinance shall take effect when approved by a majority of the electors voting at an election held
+for such purpose.
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                                       2
+        PASSED with at least a two-thirds (2/3) vote of the entire governing body of the City of Hays,
+Kansas, on July 25, 2024, and SIGNED by the Mayor.
+
+
+
+(SEAL)
+                                                                 SHAUN MUSIL
+                                                                 Mayor
+
+ATTEST:
+
+
+
+
+BRENDA KITCHEN
+City Clerk
+
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570
+                                   (Signature Page to Charter Ordinance)
+                                               CERTIFICATE
+
+        I hereby certify that the foregoing is a true and correct copy of the original Charter Ordinance
+No. 32; that was passed by the governing body on July 25, 2024; that the record of the final vote on its
+passage is found on page ____ of journal ____.
+
+         DATED: July 25, 2024.
+
+
+                                                                    BRENDA KITCHEN
+                                                                    City Clerk
+
+                      [BALANCE OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                       (Certificate to Charter Ordinance)
+                                         CERTIFICATE OF NO PROTEST
+
+
+STATE OF KANSAS                        )
+                                       ) ss:
+COUNTY OF ELLIS                        )
+
+
+         The undersigned, Clerk of the City of Hays, Kansas (the “City”), does hereby certify that the
+governing body of the City duly passed Charter Ordinance No. 32, on July 25, 2024, that the Charter
+Ordinance was published once a week for two consecutive weeks (August 7, 2024 and August 14, 2024) in
+the official City newspaper; that more than sixty (60) days have elapsed from the date of the last publication;
+and that there has been no sufficient written protest filed in my office against the Charter Ordinance, as
+provided in Article 12, Section 5 of the Kansas Constitution.
+
+         WITNESS my hand and official seal on ______________________.
+
+
+
+(Seal)
+                                                                         BRENDA KITCHEN
+                                                                         City Clerk
+
+
+
+
+600289.00000\CH ORD - KSA 14-570 V.2
+                                               (Certificate of No Protest)
+
+
+DOCUMENT 6 OF 6 -- CHARTER ORDINANCE NO. 33
+Document Center title: Charter Ordinance No. 33 - Increasing TGT Rates
+City of Hays Document Center, document 6753
+Source: https://www.haysusa.com/DocumentCenter/View/6753/Charter-Ordinance-No-33-Increasing-TGT-Rates
+PDF as fetched: 58263 bytes, 2 pages. Passed October 24, 2024.
+------------------------------------------------------------------------
+                              CHARTER ORDINANCE NO. 33
+
+    A CHARTER ORDINANCE AMENDING AND REPEALING SECTION 1 OF
+CHARTER ORDINANCE NO. 28 WHICH AMENDED CHARTER ORDINANCE NO. 23,
+EXEMPTING THE CITY OF HAYS, KANSAS, FROM THE PROVISIONS OF K.S.A. 12-
+1696 TO K.S.A. 12-16,101, INCLUSIVE, AND PROVIDING SUBSTITUTE AND
+ADDITIONAL PROVISIONS OF THE SAME SUBJECT, RELATING TO THE LEVY OF A
+TRANSIENT GUEST TAX FOR THE TOURISM AND CONVENTIONS.
+
+     WHEREAS, K.S.A. 12-1696 to 12-16,101, inclusive, authorizes a levy by cities of a
+transient guest tax, which provisions are not uniformly applicable to all cities; and
+
+      WHEREAS, pursuant to Article 12, Section 5 of the Constitution of the State of Kansas,
+cities may exempt themselves from such provisions and provide substitute and additional
+provisions therefore; and
+
+     WHEREAS, the City of Hays, Kansas, has adopted Charter Ordinance No. 19, on February
+12, 1998, Charter Ordinance No. 23 amending Charter Ordinance No. 19 on September 14, 2006,
+and Charter Ordinance No. 28 amending Charter Ordinance No. 23 on June 14, 2018, dealing
+with said subject.
+
+    NOW THEREFORE, BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY
+OF HAYS, KANSAS:
+
+     Section 1. That Section 1 of City of Hays, Kansas, Charter Ordinance No. 28, as passed on
+June 14, 2018, is hereby amended to read as follows:
+
+           Section 1. A transient guest tax shall be levied in the City of Hays, Kansas, at a rate
+     not to exceed 8.25%, upon the gross rental receipts derived from or paid by transient guests
+     for lodging or sleeping accommodations, exclusive of charges for incidental services or
+     facilities, in any hotel or motel. The percentage and effective date of such tax shall be
+     determined by the Governing Body and shall be specified in a resolution authorizing the
+     same and may be amended, within the limits specified herein, from time to time by
+     resolution of the Governing Body.
+
+     Section 2. Section 1 of the City of Hays, Kansas Charter Ordinance No. 28, as passed on
+June 14, 2018, is hereby repealed.
+
+    Section 3. The Charter Ordinance shall be published once each week for two consecutive
+weeks on the City of Hays, Kansas, website, the official legal publication outlet for the City of
+Hays, Kansas.
+
+     Section 4. This Charter Ordinance and shall take effect 61 days after final publication unless
+a sufficient petition for a referendum is filed, and a referendum is held on the ordinance as
+provided in Article 13, Section 5(c)(3) of the Constitution of the State of Kansas, in which case
+the ordinance shall become effective if approved by a majority vote of the electors voting
+thereon.
+     PASSED by the Governing Body, not less than two thirds of the members elected voting in
+favor thereof, on the 24th day of October, 2024.
+
+
+
+                                                        _____________________________
+                                                        SANDY JACOBS
+                                                        Mayor
+ATTEST:
+
+
+
+
+BRENDA KITCHEN
+City Clerk
+
+(SEAL)
+
