@@ -14,6 +14,8 @@ Which is to say: St. Fidelis is not an outpost of the province. It is the provin
 
 I am building a small booklet from the full research — the order's founding, the road from Pittsburgh to Herzog, the building of the basilica, and Saint Fidelis himself — and when it is ready I would like to give it to you, freely, for the rectory and for anyone who loves that church. This letter is just the first page of it, because this one fact belonged to you before it belonged to a book.
 
+And so that nothing here rests on my word alone: the full research, with the documents themselves — the 1977 paper and the province's audit among them — stands on my public shelf, where any brother may check every word against its source: https://github.com/roberttilford19-sketch/research-papers/tree/main/capuchins-of-victoria
+
 With gratitude for your prayers and your welcome,
 
 Robert Tilford
